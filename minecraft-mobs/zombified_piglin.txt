@@ -1,0 +1,52 @@
+Name: Zombified Piglin
+Type: Neutral (hostile when provoked)
+Category: Undead / Nether
+
+Health: 20 HP (10 hearts)
+Attack Damage: 9 (melee, Easy) / 13 (Normal) / 19 (Hard)
+Armor: 2
+Movement Speed: 0.23 (0.32 aggro)
+XP Dropped: 5
+
+Spawn Locations:
+- Nether (all biomes)
+- Overworld / End — when a Pig is struck by lightning
+- Near Nether Portals in the Overworld
+- Nether Portal in the Overworld (occasionally walk through)
+- When a Piglin enters the Overworld or End (transforms)
+
+Drops:
+- Rotten Flesh (0-1)
+- Gold Nugget (0-1)
+- Gold Ingot (rare, 2.5%)
+- Golden Sword (rare, 8.5%)
+- Golden Helmet (rare, 8.5%)
+
+Special Abilities:
+- Passive unless attacked — one hit causes entire group to aggro
+- Group aggro: nearby Zombified Piglins within 67 blocks join the attack
+- Aggro lasts 20-39.95 seconds
+- Immune to fire and lava
+- Anger timer — eventually forgets and returns to neutral
+
+Weaknesses:
+- Smite enchantment (undead — takes bonus damage)
+- Standard weapons (after angering them)
+
+Immunities:
+- Fire and lava
+
+Behavior:
+- Wanders aimlessly when neutral
+- Becomes very aggressive when any member of their group is attacked
+- Does not forget aggro quickly — pursues for a long time
+- Holds golden sword
+
+Sounds: Gurgling zombie sounds mixed with pig oinks
+
+Notes:
+- Formerly called "Zombie Pigman" before 1.16
+- Safe to farm for gold but extreme care needed not to hit one
+- One of the best gold farms in the game
+- Will also become aggressive if a player hits one accidentally (e.g., splash potion area)
+- Piglins that enter the Overworld or End zombify after ~15 seconds

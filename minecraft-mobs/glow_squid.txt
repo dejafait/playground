@@ -1,0 +1,42 @@
+Name: Glow Squid
+Type: Passive
+Category: Animal / Aquatic
+
+Health: 10 HP (5 hearts)
+Attack Damage: None
+Armor: 0
+Movement Speed: Swims at ~0.20
+XP Dropped: 1-3
+
+Spawn Locations:
+- Underground water sources (below Y=30)
+- Lush Caves (water areas)
+- Rarely in deep ocean sections
+
+Drops:
+- Glow Ink Sac (1-3)
+
+Special Abilities:
+- Emits a glowing effect (bioluminescent)
+- Squirts glowing ink when attacked (same visual behavior as Squid)
+- Loses glow momentarily when hurt (dims and regains)
+
+Glow Ink Sac Uses:
+- Sign text: Apply to Sign text to make it glow (visible in darkness)
+- Item Frames: Apply to Item Frame to make items displayed inside glow
+- Crafting: Used in crafting Glow Item Frame
+
+Behavior:
+- Swims aimlessly in underground water
+- Visual glow effect makes them easy to spot in dark caves
+- Same basic behavior as regular Squid
+
+Sounds: Squirting sounds (when hit)
+
+Notes:
+- Won the Minecraft Live 2020 Mob Vote (beating Iceologer and Moobloom)
+- Added in Java Edition 1.17
+- The glow effect is purely visual — does not emit real light block
+- Glow Ink Sacs are purely cosmetic use items (signs, item frames)
+- One of the most visually appealing mobs in cave environments
+- Named after the real-world phenomenon of bioluminescent squid

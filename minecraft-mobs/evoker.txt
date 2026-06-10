@@ -1,0 +1,46 @@
+Name: Evoker
+Type: Hostile
+Category: Illager / Spell Caster
+
+Health: 24 HP (12 hearts)
+Attack Damage: Vex (13 on Normal) / Fang row (6 per fang)
+Armor: 0
+Movement Speed: 0.50
+XP Dropped: 10
+
+Spawn Locations:
+- Woodland Mansions (rare — specific rooms only)
+- Raids (waves 5-7)
+
+Drops:
+- Totem of Undying (1, guaranteed — most valuable mob drop in the game)
+- Emerald (0-1, during Raids)
+
+Special Abilities:
+- Summons Vexes (3 at a time) which fly through blocks and attack
+- Summons a line or circle of Evoker Fangs from the ground
+- Can change the color of Blue Sheep to Red (casting a "wololo" effect)
+- During raids, the most dangerous unit
+- Low HP for a spellcaster — fragile but lethal
+
+Weaknesses:
+- Closing the distance quickly before it can cast
+- Ranged attacks
+
+Immunities:
+- None
+
+Behavior:
+- Keeps distance and casts spells
+- Periodically summons 3 Vexes
+- Summons Fang attacks in a line toward the player or in a ring if too close
+- Retreats while casting
+
+Sounds: Spell casting sounds, villager-like muttering, ominous chanting
+
+Notes:
+- The ONLY source of the Totem of Undying in survival mode
+- Totems of Undying save the player from death once (one of the most powerful items)
+- Found in Woodland Mansions (rare) — important to locate one early-game
+- Evokers are the leader-tier Illagers — higher XP than most mobs
+- The sheep-color spell is a reference to Age of Empires' Priests ("Wololo")

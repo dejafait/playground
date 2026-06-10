@@ -1,0 +1,45 @@
+Name: Cave Spider
+Type: Hostile
+Category: Arthropod
+
+Health: 12 HP (6 hearts)
+Attack Damage: 2 (Easy, no poison) / 2 + Poison 7s (Normal) / 3 + Poison 15s (Hard)
+Armor: 0
+Movement Speed: 0.30
+XP Dropped: 5
+
+Spawn Locations:
+- Mineshafts (spawned exclusively from Cave Spider spawners)
+- Only found via spawners — do not spawn naturally in the world
+
+Drops:
+- String (0-2)
+- Spider Eye (1/3 chance)
+
+Special Abilities:
+- Venomous bite — inflicts Poison on Normal and Hard difficulty
+- Smaller than regular spider (0.7 blocks tall) — fits through 1-block gaps
+- Can climb walls just like regular spiders
+- Fits through gaps that regular spiders cannot
+
+Weaknesses:
+- Bane of Arthropods enchantment (extra damage + slowness)
+- Milk cures poison effect
+- Poison doesn't kill (stops at 1 HP)
+
+Immunities:
+- Poison effect (the status effect doesn't harm them)
+
+Behavior:
+- Always hostile (unlike regular spiders, doesn't turn neutral in light)
+- Pursues players aggressively
+- Climbs through tight spaces in mineshafts
+- Swarms in packs near spawners
+
+Sounds: Same as regular spider — hissing, skittering
+
+Notes:
+- Blue-tinted color differentiates it from regular spiders
+- Most dangerous in mineshafts where they mob the player in tight corridors
+- Spawners found in abandoned mineshafts surrounded by cobwebs
+- Smallest hostile mob that can poison the player

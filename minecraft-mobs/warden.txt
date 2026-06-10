@@ -1,0 +1,55 @@
+Name: Warden
+Type: Hostile
+Category: Monster / Deep Dark
+
+Health: 500 HP (250 hearts)
+Attack Damage: Melee 16 (Easy) / 30 (Normal) / 45 (Hard)
+              Sonic Shriek 6 (Easy) / 10 (Normal) / 13 (Hard) — ignores armor
+Armor: 0
+Movement Speed: 0.30
+XP Dropped: 5 (intentionally low — designed to be avoided, not farmed)
+
+Spawn Locations:
+- Deep Dark biome only (deepest underground levels)
+- Summoned when Sculk Shriekers are triggered 3 times
+
+Drops:
+- Sculk Catalyst (rarely)
+- 5 XP
+
+Special Abilities:
+- Completely blind — detects players via:
+  1. Vibrations (walking, breaking blocks, projectiles, opening chests)
+  2. Smell — detects player proximity regardless of movement after 9 seconds
+- Sonic Boom attack: ranged attack that completely IGNORES all armor and shields
+- Inflicts Darkness effect (vision pulses black)
+- Emerges from the ground dramatically when summoned
+- Anger system: tracks multiple entities and targets the angriest one
+- Not aggressive until it detects something — avoidable
+
+Weaknesses:
+- Can be distracted with snowballs/arrows thrown elsewhere
+- Sneaking reduces vibration
+- Wool blocks dampen vibrations
+- Can be "snuck past" with enough care
+
+Immunities:
+- Does not take extra damage from any enchantment type
+- All armor is ignored by Sonic Boom
+
+Behavior:
+- Emerges from ground when Sculk Shrieker activates 3 times
+- Investigates vibrations (footsteps, projectiles, blocks broken)
+- Sniffs the air — detects players by scent after cooldown
+- Submerges back into ground if no threats detected for 60 seconds
+- Retreats and de-spawns when calm for long enough
+
+Sounds: Deep heartbeat-like thuds, bone-cracking steps, eerie shriek
+
+Notes:
+- The strongest overworld mob — intended to be avoided not killed
+- 500 HP and 30 damage (Normal) makes it almost impossible to outlast
+- Deep Dark contains Ancient City structures with powerful loot
+- Swift Sneak enchanted leggings (found in Ancient Cities) are designed for Warden avoidance
+- The Warden represents a new "stealth challenge" gameplay loop in Minecraft
+- Even with full Netherite armor, the Sonic Boom will kill a player in a few hits

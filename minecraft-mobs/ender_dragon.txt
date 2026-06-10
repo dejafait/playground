@@ -1,0 +1,59 @@
+Name: Ender Dragon
+Type: Boss
+Category: Boss Mob
+
+Health: 200 HP (100 hearts)
+Attack Damage: Head melee 15 (Easy) / 22 (Normal) / 30 (Hard)
+              Dragon's Breath (area damage + Dragon's Breath effect) 6/s
+              Wing hit 5 (Easy) / 7 (Normal) / 10 (Hard)
+Armor: Immune to most damage except when attacking/at head
+Movement Speed: Flies at high speed — varies
+XP Dropped: 12,000 (first kill) / 500 (subsequent kills)
+
+Spawn Location:
+- The End (main island, The End dimension)
+- Respawned by placing 4 End Crystals on the Exit Portal edges
+
+Drops:
+- Dragon Egg (1, first kill only — decorative)
+- Opens the Exit Portal (first kill — reveals End poem)
+- 12,000 XP on first kill (enough for several levels)
+
+Special Abilities:
+- Immune to most damage except:
+  1. Bow shots and ranged hits at its head while it perches at the portal
+  2. Melee/ranged hits anywhere while it swoops or perches
+- Healed by End Crystals on top of pillars — must be destroyed first
+- Dragon's Breath attack: leaves a lingering cloud that drains HP
+- Charge attack: flies straight through the player (wing and body damage)
+- Fireball: shoots purple acid fireballs
+- Destroys most blocks it flies through (except End Stone, obsidian, bedrock)
+- Can only be hit in the head for full damage
+
+Strategy:
+1. Destroy all End Crystals on obsidian pillars (use bow or bed explosions)
+2. Shoot it with bow while it hovers at the center portal or perches
+3. Avoid dragon breath clouds and swooping charges
+
+End Crystals: Regenerate the Dragon's HP when within range — priority targets
+
+Immunities:
+- All potion effects
+- Fire
+- Cannot be killed by Fall damage (flies)
+- Damage to body is heavily reduced — head is the weak point
+
+Behavior:
+- Circles the main island constantly
+- Periodically swoops toward the player
+- Perches on Exit Portal to breathe fire
+- Charges in a straight line at the player periodically
+
+Sounds: Roaring, wing flapping, growling
+
+Notes:
+- The intended "final boss" of Minecraft — killing it finishes the main game narrative
+- The Dragon Egg is the rarest decorative block (only 1 per world on first kill)
+- Dragon's Breath (collect with glass bottles while standing in it) is used for Lingering Potions
+- The End Poem (after death) is one of gaming's most celebrated pieces of writing
+- Can be re-summoned indefinitely by crafting new End Crystals

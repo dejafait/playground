@@ -1,0 +1,47 @@
+Name: Tropical Fish
+Type: Passive
+Category: Animal / Aquatic
+
+Health: 3 HP (1.5 hearts)
+Attack Damage: None
+Armor: 0
+Movement Speed: Swims in schools
+XP Dropped: 1-3
+
+Spawn Locations:
+- Warm Ocean
+- Lukewarm Ocean
+- Lush Caves (underground water)
+
+Variants:
+- Over 2,700 unique visual combinations
+- 2 body shapes × 6 patterns × 15 colors = hundreds of combinations
+- 22 pre-named varieties (with specific names like Clownfish, Parrotfish, etc.)
+- Pattern + color combinations stored in NBT data
+
+Drops:
+- Tropical Fish (1 — the food item)
+- Bone Meal (rarely)
+
+Special Abilities:
+- School behavior — swim in groups
+- Can be caught in a Water Bucket (Bucket of Tropical Fish)
+- Each bucket retains the specific fish's variant/color
+
+Tropical Fish Item Uses:
+- Food (1 hunger bar, low saturation — not great food)
+- Feeding Axolotls (the ONLY way to breed Axolotls — Axolotls eat Tropical Fish)
+- Decoration in Aquariums
+
+Behavior:
+- Swims in schools, direction changes together
+- Schools of same pattern/color
+
+Sounds: Bubbling, swimming sounds
+
+Notes:
+- 2,700+ variants makes Tropical Fish one of the most visually diverse mobs
+- Axolotl breeding requires Tropical Fish — the most important use of the mob
+- Bucket of Tropical Fish preserves the exact color/pattern — collectible aspect
+- One of the most colorful biome indicators (Warm Oceans only)
+- The variety of patterns is procedural — each world has all patterns available

@@ -1,0 +1,44 @@
+Name: Ocelot
+Type: Passive
+Category: Animal
+
+Health: 10 HP (5 hearts)
+Attack Damage: None (doesn't attack)
+Armor: 0
+Movement Speed: 0.30
+XP Dropped: 1-3
+
+Spawn Locations:
+- Jungle
+- Bamboo Jungle
+- Sparse Jungle
+
+Drops:
+- Nothing
+
+Trust Mechanic (not taming):
+- Feed Raw Cod or Raw Salmon while approaching very slowly
+- Earns "trust" but ocelot remains wild and does not follow the player
+- Trusted ocelots stay near the player area and don't flee
+
+Special Abilities:
+- Scares Creepers — Creepers flee from ocelots within 6 blocks
+- Scares Phantoms — Phantoms avoid swooping near ocelots
+- Very fast — one of the fastest land animals
+- Cannot be tamed into a companion (unlike before 1.14)
+- Cannot be given commands (sit/follow)
+
+Behavior:
+- Extremely skittish — runs away when player approaches
+- Crouching and approaching slowly lets you feed it
+- Hunts Chickens
+- Sprints away if player moves too fast
+
+Sounds: Meowing (similar to cats), purring
+
+Notes:
+- Before Java 1.14, ocelots could be tamed into cats — this was split into two separate mobs
+- Cats are now distinct from Ocelots — Cats spawn in villages; Ocelots spawn in jungles
+- Despite not being tameable, they're still useful anti-Creeper deterrents in jungle bases
+- One of the rarer mobs to find in survival due to sparse jungle spawning
+- Very fast movement speed makes them hard to catch

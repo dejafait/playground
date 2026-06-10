@@ -1,0 +1,51 @@
+Name: Wither Skeleton
+Type: Hostile
+Category: Undead
+
+Health: 20 HP (10 hearts)
+Attack Damage: 5 (all difficulties) + Wither effect for 10 seconds
+Armor: 0
+Movement Speed: 0.25
+Height: 2.4 blocks (taller than doorways)
+XP Dropped: 5
+
+Spawn Locations:
+- Nether Fortresses exclusively
+- Light level 7 or below in Nether Fortresses
+
+Drops:
+- Bones (0-2)
+- Coal (0-1)
+- Wither Skeleton Skull (2.5% chance — increased by Looting)
+- Stone Sword (8.5%)
+
+Special Abilities:
+- Inflicts Wither status effect (drains health over 10 seconds, turns hearts black)
+- Tall enough that standard 2-block doorways don't stop them
+- Immune to fire and lava
+- Burns sunlight doesn't affect them (Nether mob)
+- Wither Skull drops are essential to summon the Wither boss
+
+Weaknesses:
+- Smite enchantment (undead — bonus damage)
+- Looting enchantment greatly improves skull drop rate
+
+Immunities:
+- Fire and lava
+- The Wither effect itself
+- Does not take fire damage from the environment
+
+Behavior:
+- Patrols Nether Fortresses
+- Pursues players on sight
+- Will duck through certain low openings
+- Travels in groups in fortress corridors
+
+Sounds: Bone rattling (similar to regular skeleton)
+
+Notes:
+- Farming Wither Skeleton Skulls is one of the most tedious grinds in the game
+- 3 skulls are needed to summon the Wither boss (for the Nether Star → Beacon)
+- Looting III sword brings skull drop rate from 2.5% to 5.5%
+- Beheading enchantment (Bedrock) further increases skull drop chance
+- Taller than standard skeletons — can't walk under 2-block clearances easily

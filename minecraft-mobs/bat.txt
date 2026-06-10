@@ -1,0 +1,39 @@
+Name: Bat
+Type: Passive
+Category: Animal
+
+Health: 6 HP (3 hearts)
+Attack Damage: None
+Armor: 0
+Movement Speed: Flies at ~0.30
+XP Dropped: 0
+
+Spawn Locations:
+- Caves (below Y=63 — spawns at light level 4 or below)
+- Underground caverns
+- Requires at least a 2×3 space to spawn
+- During Halloween (Oct 20–Nov 3) they can spawn at slightly higher altitudes
+
+Drops:
+- Nothing
+
+Special Abilities:
+- Hangs upside down on ceilings when not flying
+- Squeaks — can alert player to nearby cave areas
+- Very agile flight — hard to hit
+- Cannot be hurt by conventional fall damage (flies always)
+
+Behavior:
+- Flies randomly in caves
+- Hangs from ceilings when resting
+- Startles and flies away when player approaches
+- Does not attack, drop items, or provide any game mechanic benefit
+
+Sounds: High-pitched squeaking/chirping
+
+Notes:
+- One of the few mobs that provides zero gameplay benefit (no drops, no XP)
+- Primarily atmospheric — indicates you're deep underground
+- The squeak sounds are charming but serve no functional purpose
+- Sometimes flies into lava and dies, creating a sad sound effect
+- Prior to 1.20.3, bats were fairly useless; discussions of "improving" bats have been ongoing in the community

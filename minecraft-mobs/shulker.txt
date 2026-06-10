@@ -1,0 +1,48 @@
+Name: Shulker
+Type: Hostile
+Category: End Monster
+
+Health: 30 HP (15 hearts) — full shell closed
+Attack Damage: Bullet 4 + Levitation II for 10 seconds
+Armor: 20 (shell closed) / 0 (shell open)
+Movement Speed: Stationary (teleports)
+XP Dropped: 5
+
+Spawn Locations:
+- End Cities (The End, outer islands)
+- Attached to End City walls, floors, and ceilings
+
+Drops:
+- Shulker Shell (0-1, up to 2 with Looting — 50% base chance)
+
+Special Abilities:
+- Hidden inside a shell — immune to almost all damage when closed
+- Opens shell to fire homing bullets at players
+- Bullets apply Levitation II for 10 seconds (player floats uncontrollably)
+- Levitation can send player extremely high → fall damage risk
+- When at low health (below 50%), may teleport to a new location on a nearby surface
+- Can teleport to the underside of blocks or walls
+
+Weaknesses:
+- Only takes damage when shell is open (brief window)
+- Bullets can be deflected with shields
+- Eggs, snowballs, and other projectiles can hit the body when open
+
+Immunities:
+- All damage when shell is closed
+- Projectiles when closed
+
+Behavior:
+- Clings to surfaces in End Cities
+- Peeks open to track nearby players
+- Fires homing bullet when fully open
+- Closes when hit, then relocates if low health
+
+Sounds: Mechanical clicking/clunking sounds
+
+Notes:
+- Shulker Shells are crafted into Shulker Boxes (the most important storage item in the game)
+- Shulker Boxes hold 27 items and keep their inventory when broken
+- The Levitation effect is deadly near tall structures — Elytra strongly recommended in End Cities
+- End Ships (near End Cities) contain an Elytra — the most valuable late-game item
+- Farming Shulker Shells is essential for any serious inventory management

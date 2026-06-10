@@ -1,0 +1,44 @@
+Name: Piglin Brute
+Type: Hostile (always — no gold armor exception)
+Category: Nether / Humanoid
+
+Health: 50 HP (25 hearts)
+Attack Damage: 13 (Easy) / 19 (Normal) / 28 (Hard)
+Armor: 2
+Movement Speed: 0.35
+XP Dropped: 20
+
+Spawn Locations:
+- Bastion Remnants only (guards treasure rooms and chests)
+- Does not respawn after being killed
+
+Drops:
+- Golden Axe (100%, may be enchanted)
+
+Special Abilities:
+- Always hostile — wearing gold armor has NO effect
+- Wields a golden axe
+- Higher HP and damage than regular Piglins
+- Zombifies in the Overworld/End like regular Piglins
+- Does not barter — purely a guard mob
+
+Weaknesses:
+- Standard combat (just tough)
+- Smite enchantment does not work (not undead while alive)
+
+Immunities:
+- Fire and lava
+
+Behavior:
+- Attacks the player on sight regardless of gold armor
+- Aggressive and single-minded
+- Guards the loot rooms of Bastions
+
+Sounds: Angry snorting and grunting
+
+Notes:
+- One of the toughest non-boss Nether mobs
+- Specifically added to make Bastion Remnant exploration risky
+- Does not spawn naturally elsewhere — only in Bastions
+- The golden axe can be enchanted and is a decent early-game weapon
+- Once the Brutes in a Bastion are killed, they never respawn

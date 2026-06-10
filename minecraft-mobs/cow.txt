@@ -1,0 +1,47 @@
+Name: Cow
+Type: Passive
+Category: Animal
+
+Health: 10 HP (5 hearts)
+Attack Damage: None
+Armor: 0
+Movement Speed: 0.20
+XP Dropped: 1-3
+
+Spawn Locations:
+- Plains
+- Forest
+- Birch Forest
+- Dark Forest
+- Meadow
+- Most grassy overworld biomes
+
+Drops:
+- Raw Beef (1-3, Cooked Beef if on fire)
+- Leather (0-2)
+
+Breeding:
+- Feed 2 Cows Wheat to breed
+- Baby calf grows into adult after ~20 minutes
+- 5 minute cooldown between breeding attempts
+
+Special Abilities:
+- Can be milked with an empty Bucket (right-click)
+- Milk removes all status effects from the player (curative item)
+- Source of both food (beef) and leather (armor crafting)
+- Mooshroom is a mushroom-covered variant found only in Mushroom Islands
+
+Behavior:
+- Wanders peacefully
+- Moves away when hit but doesn't flee far
+- Follows players holding Wheat
+- Babies follow adults
+
+Sounds: Mooing
+
+Notes:
+- One of the most essential survival mobs — leather for books/armor, beef for food
+- Milk is uniquely useful: cures every status effect instantly (vital against Witches, Wither effect, etc.)
+- One of the earliest mobs in Minecraft (Beta era)
+- Cow farms are among the most common automated farms
+- Required for Leather, which is needed for Books → Bookshelves → Enchanting Table setup

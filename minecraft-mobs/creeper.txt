@@ -1,0 +1,49 @@
+Name: Creeper
+Type: Hostile
+Category: Monster
+
+Health: 20 HP (10 hearts)
+Attack Damage: Explosion damage 49 (Normal, direct hit) — varies greatly with distance
+Explosion Power: 3 (normal) / 6 (charged)
+Armor: 0
+Movement Speed: 0.25
+XP Dropped: 5
+
+Spawn Locations:
+- Overworld (night, light level 0)
+- Caves and dark areas
+
+Drops:
+- Gunpowder (0-2)
+- Music Disc (Cat or 13) when killed by a Skeleton's arrow
+- Creeper Head (when killed by charged creeper explosion)
+
+Special Abilities:
+- Silently approaches the player
+- Hisses for 1.5 seconds then explodes
+- Charged by lightning strikes — doubles explosion power
+- Explosion destroys terrain (one of the few mobs that can)
+- Does not explode if player moves away in time (timer resets)
+
+Weaknesses:
+- Cats and Ocelots — Creepers flee from them
+- Fire causes premature explosion sometimes
+- Backing away resets the fuse
+
+Immunities:
+- None specific, but immune to their own explosion damage
+
+Behavior:
+- Wanders silently
+- Approaches player within 3 blocks before activating fuse
+- If player moves away before explosion, fuse resets
+- Runs from Cats and Ocelots
+
+Sounds: Hissing before explosion, no footstep sounds (intentional — originally a bug)
+
+Notes:
+- One of the most iconic Minecraft mobs
+- Originally created by Notch as a failed pig model
+- The silent approach makes it notoriously dangerous
+- Charged Creepers are rare and extremely deadly
+- Creeper faces appear on TNT, maps, and in game iconography

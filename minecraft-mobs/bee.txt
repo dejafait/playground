@@ -1,0 +1,56 @@
+Name: Bee
+Type: Neutral (hostile when hive is disturbed or bee attacked)
+Category: Animal / Insect
+
+Health: 10 HP (5 hearts)
+Attack Damage: 2 + Poison I for 10 seconds (Normal)
+Armor: 0
+Movement Speed: Flies at 0.30
+XP Dropped: 1-3
+
+Spawn Locations:
+- Flower Forest
+- Plains (near Bee Nests)
+- Sunflower Plains
+- Mangrove Swamp
+- Cherry Grove
+- Meadow
+- Naturally attached to Bee Nests on Oak and Birch trees (5% spawn chance per tree)
+
+Drops:
+- Nothing
+
+Honey and Hive Mechanics:
+- Bees collect pollen from flowers → bring it back to Bee Nest/Hive → makes Honey
+- Hive fills through 5 honey levels (visible by honey dripping from block)
+- Level 5: Collect Honey Bottles with Glass Bottle, or Honeycombs with Shears
+- Honey Bottle: Food item (6 saturation), also cures Poison
+- Honeycomb: Used to craft Beehives, Candles, and Wax Copper Blocks
+- Campfire under a hive pacifies bees and allows harvesting without aggro
+
+Pollination:
+- Bees with pollen on them that fly over farmland crops accelerate growth by 1 stage
+- Important for crop farming speedup
+
+Breeding:
+- Feed 2 Bees any Flower
+
+Special Abilities:
+- Stings once, loses its stinger, then dies after ~1 minute
+- Inflicts Poison I for 10 seconds on sting
+- Entire hive becomes hostile if one bee is attacked or hive is disturbed without Silk Touch or campfire
+
+Behavior:
+- Collects pollen from flowers in a radius around its hive
+- Returns to hive in the evening
+- Hostile at night or in rain (returns to hive)
+- Swarms and attacks when hive is harmed
+
+Sounds: Buzzing
+
+Notes:
+- Bees introduced as part of real-world bee conservation awareness
+- Silk Touch pickaxe lets you collect a Bee Nest/Hive with bees inside
+- Candles (crafted from Honeycombs + String) are a decorative light source
+- One of the few mobs that directly benefits crop farming
+- Moving a Bee Nest to a base is a valuable mid-game goal

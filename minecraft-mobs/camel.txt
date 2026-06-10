@@ -1,0 +1,47 @@
+Name: Camel
+Type: Passive
+Category: Animal / Rideable
+
+Health: 32 HP (16 hearts)
+Attack Damage: None
+Armor: 0
+Movement Speed: 0.09 (walk) / fast dash ability
+XP Dropped: 1-3
+
+Spawn Locations:
+- Desert Villages (1 per village, in the center)
+- Does not spawn in the wild — only in Desert Villages
+
+Drops:
+- Nothing
+
+Riding:
+- Place a Saddle to ride
+- Two players can ride simultaneously (one on each side of the hump)
+- No steering item needed — controlled with WASD
+
+Special Abilities:
+- Two-Player Mount: Unique among rideable mobs — both players can sit on one Camel
+- Dash: Press Jump twice rapidly to dash forward (boost speed, cooldown applies)
+  — Dash crosses gaps that would be impassable at normal speed
+- Height Advantage: Camels are very tall — most hostile mobs cannot reach the rider
+  (Zombies, Skeletons, most surface mobs cannot hit players on Camel)
+- Sits Down: Camels periodically sit down (kneel) — right-click while sitting to make it stand
+
+Breeding:
+- Feed 2 Camels Cacti
+
+Behavior:
+- Wanders Desert Villages
+- Periodically kneels/sits
+- Follows players holding Cacti
+- Baby Camels are smaller but have same proportions
+
+Sounds: Humming, grunting, sand movement sounds
+
+Notes:
+- Added in 1.20 (Trails and Tales update) as the Desert Village mount
+- The two-player riding mechanic makes it perfect for co-op exploration
+- Height protection from mobs is a unique defensive advantage
+- The dash mechanic allows crossing gaps and moving quickly across open desert
+- Cacti as breeding item is fitting — the only rideable mob bred with a hostile-to-player plant

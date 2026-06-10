@@ -1,0 +1,47 @@
+Name: Vindicator
+Type: Hostile
+Category: Illager
+
+Health: 24 HP (12 hearts)
+Attack Damage: 13 (Easy) / 19 (Normal) / 25 (Hard) — axe melee
+Armor: 0
+Movement Speed: 0.35
+XP Dropped: 5
+
+Spawn Locations:
+- Woodland Mansions (common inside)
+- Raids (waves 2-7, increasing numbers)
+
+Drops:
+- Emerald (0-1, rare during raid)
+- Iron Axe (8.5%, may be enchanted)
+
+Special Abilities:
+- Extremely high melee damage — one of the strongest melee mobs
+- Part of the Illager faction — attacks villagers, iron golems, and players
+- During Raids, a named Vindicator called "Johnny" will attack ALL mobs (not just players/villagers)
+  — includes other hostile mobs and even other Illagers
+- Uses an Iron Axe which bypasses shields partially
+- Breaks down doors during Raids
+
+Weaknesses:
+- Ranged attacks (low HP for its damage output)
+- Keeping distance
+
+Immunities:
+- None
+
+Behavior:
+- Charges directly at players/villagers with axe
+- Part of Illager patrols near Woodland Mansions
+- During raids, targets villagers first
+- "Johnny" variant attacks literally everything
+
+Sounds: Villager-like grunts but menacing
+
+Notes:
+- Possibly the hardest-hitting non-boss mob in the game per hit
+- Vindicator "Johnny" named variant attacks any mob — even Endermen
+- The "Johnny" name is a reference to "The Shining" ("Here's Johnny!")
+- Emerald drops during raids make them valuable to fight
+- Second-most dangerous Illager after the Evoker in terms of raw threat

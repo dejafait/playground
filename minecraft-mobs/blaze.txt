@@ -1,0 +1,49 @@
+Name: Blaze
+Type: Hostile
+Category: Nether Monster
+
+Health: 20 HP (10 hearts)
+Attack Damage: Fireball 5 + fire / Melee 6 (if player too close)
+Armor: 0
+Movement Speed: 0.23 (flies)
+XP Dropped: 10
+
+Spawn Locations:
+- Nether Fortresses (natural spawning)
+- Blaze Spawners in Nether Fortresses
+
+Drops:
+- Blaze Rod (0-1, doubled with Looting)
+
+Special Abilities:
+- Flies and hovers in the air
+- Fires a rapid burst of 3 fireballs
+- Charges up before firing (emits fire particles and spins)
+- Sets targets on fire with fireballs
+- Immune to fire and lava damage
+- Takes damage from Snowballs (3 damage each)
+- Takes damage from Water and Snow
+
+Weaknesses:
+- Snowballs (3 damage per hit — 7 snowballs to kill)
+- Water and rain deal damage
+- Cold or water-based attacks
+
+Immunities:
+- Fire
+- Lava
+
+Behavior:
+- Hovers above the ground
+- Rises and drops while pursuing player
+- Charges up with fire particles before releasing 3-fireball burst
+- Retreats slightly between bursts
+
+Sounds: Breath sounds, fire crackling
+
+Notes:
+- Essential mob — Blaze Rods are required to reach The End (for Brewing Stands and Eyes of Ender)
+- One of only 2 ways to obtain Blaze Powder
+- Found only in Nether Fortresses, making Fortress-finding critical for progression
+- Yellow-orange in color with floating rods orbiting its body
+- Snowballs are the budget counter — cheap and effective

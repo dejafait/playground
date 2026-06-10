@@ -1,0 +1,61 @@
+Name: Llama
+Type: Neutral (spits when provoked)
+Category: Animal / Pack Animal
+
+Health: 15-30 HP (varies, 7.5-15 hearts)
+Attack Damage: Spit — 1 damage (harmless)
+Armor: 0 (carpet decoration, no armor value)
+Movement Speed: 0.175
+XP Dropped: 1-3
+
+Spawn Locations:
+- Savanna Plateau
+- Windswept Hills (Extreme Hills)
+- Windswept Forest
+- Windswept Gravelly Hills
+- Spawn in herds of 4-6
+
+Drops:
+- Leather (0-2)
+
+Taming:
+- Right-click to ride repeatedly (like horse — random chance, no item needed)
+- Must tame before attaching chest or carpet
+
+Strength Variants (determines chest capacity):
+- Strength 1: 3 inventory slots
+- Strength 2: 6 inventory slots
+- Strength 3: 9 inventory slots
+- Strength 4: 12 inventory slots
+- Strength 5: 15 inventory slots
+
+Equipment:
+- Chest: Gives inventory slots based on Strength stat
+- Carpet: Decorative pattern on back (color based on carpet color — 16 options)
+
+Caravan Mechanic:
+- Leash a Llama with a Lead → following llamas automatically link into a caravan (up to 10)
+- Used by Wandering Traders (who walk with 2 Trader Llamas in caravan)
+
+Special Abilities:
+- Spits at hostile wolves (and players who attack them)
+- Forms caravans when one is leashed
+- High-volume storage when multiple Llamas follow in caravan
+- Decorative carpet adds visual personality
+
+Breeding:
+- Feed 2 tamed Llamas Hay Bales
+
+Behavior:
+- Wanders mountains and savanna
+- Spits at wolves and players who attack
+- Baby llamas exist (cute but also spit)
+
+Sounds: Humming, spitting
+
+Notes:
+- Best pack animals for large item transport (15 slots × 10 caravan = 150 item slots)
+- Cannot be steered — they just follow the leading Llama or player
+- Trader Llamas wear blue/cyan carpet (distinguishes them from wild Llamas)
+- Spitting is largely harmless but funny
+- Added as part of the 1.11 (Exploration) update

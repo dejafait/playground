@@ -1,0 +1,41 @@
+Name: Pig
+Type: Passive
+Category: Animal
+
+Health: 10 HP (5 hearts)
+Attack Damage: None
+Armor: 0
+Movement Speed: 0.25
+XP Dropped: 1-3
+
+Spawn Locations:
+- Plains
+- Forest
+- Most grassy biomes (common)
+
+Drops:
+- Raw Porkchop (1-3, Cooked Porkchop if on fire)
+
+Breeding:
+- Feed 2 Pigs Carrots, Potatoes, or Beetroot
+
+Special Abilities:
+- Can be saddled and ridden (right-click with Saddle)
+- Steering requires Carrot on a Stick (crafted from Stick + Carrot)
+- Boost speed by right-clicking with Carrot on a Stick (durability cost)
+- Struck by lightning → transforms into a Zombified Piglin
+- Baby pigs exist (smaller, follow adults)
+
+Behavior:
+- Wanders peacefully
+- Follows players holding Carrots, Potatoes, or Beetroot
+- If ridden off a cliff, takes fall damage normally (rider should use Feather Falling or jump carefully)
+
+Sounds: Oinking, squealing when hurt
+
+Notes:
+- One of the original Minecraft mobs — the Creeper was a failed pig model
+- Riding a pig is largely a novelty — horses are significantly faster and better
+- Pigs are the only non-mob-of-your-dimension thing that Minecraft's lightning specifically transforms
+- Porkchop is a very good food item (high saturation)
+- Pig farms are a common food source in early-to-mid game

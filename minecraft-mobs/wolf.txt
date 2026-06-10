@@ -1,0 +1,58 @@
+Name: Wolf
+Type: Neutral (tamed = passive to owner)
+Category: Animal
+
+Health: 8 HP (wild) / 20 HP (tamed)
+Attack Damage: 4 (wild) / 4-6 (tamed — increases with player's attack attribute)
+Armor: 0
+Movement Speed: 0.30
+XP Dropped: 1-3
+
+Spawn Locations:
+- Forest
+- Taiga
+- Giant Tree Taiga
+- Snowy Taiga
+
+Drops:
+- Nothing (0 XP if killed by player; 1-3 if killed by other mob)
+
+Taming:
+- Tame with Bones (random chance per bone — roughly 1/3)
+- Red collar appears when tamed
+- Collar color can be changed with any dye
+
+Variants (added 1.21+):
+- Pale Wolf (Taiga — default white)
+- Ashen Wolf (Snowy Taiga — grey)
+- Black Wolf (Old Growth Pine Taiga — dark)
+- Chestnut Wolf (Old Growth Spruce Taiga — brown)
+- Rusty Wolf (Sparse Jungle — orange)
+- Spotted Wolf (Savanna — dotted)
+- Striped Wolf (Wooded Badlands — striped)
+- Snowy Wolf (Grove — white with blue eyes)
+- Woods Wolf (Forest — earthy brown)
+
+Special Abilities:
+- Tamed wolves follow and protect the owner
+- Attack mobs that attack the owner (or are attacked by the owner)
+- Naturally attack Skeletons, Strays, and Wither Skeletons
+- Sit/Stand command (right-click)
+- Can be healed with any meat
+- Wolf Armor (crafted from Armadillo Scutes) can be equipped on tamed wolves
+- Multiple wolves can be tamed and form a pack
+
+Behavior:
+- Wild wolves hunt and attack Sheep, Foxes, and Rabbits
+- Wild wolves attack players who attack them (call for help from nearby wolves)
+- Tamed wolves sit when told and follow player when standing
+- Shake dry after being in water
+
+Sounds: Barking, whimpering, growling
+
+Notes:
+- One of the oldest and most beloved companion mobs
+- Wolf Armor (1.21) greatly increases their survivability
+- Tamed wolves are one of the best early-game combat companions
+- Multiple wolf variants added based on biome in 1.21
+- Wolves automatically attack Skeletons — helpful in skeleton-heavy areas

@@ -1,0 +1,47 @@
+Name: Snow Golem
+Type: Passive (utility)
+Category: Utility / Construct
+
+Health: 4 HP (2 hearts)
+Attack Damage: Snowball knockback only (no actual damage — except to Blazes: 3 damage)
+Armor: 0
+Movement Speed: 0.20
+XP Dropped: 0
+
+Crafted By:
+- 2 Snow Blocks stacked vertically + Carved Pumpkin or Jack o'Lantern on top
+
+Drops:
+- Snowballs (4)
+
+Special Abilities:
+- Throws snowballs at hostile mobs continuously
+- Leaves a trail of Snow on the ground as it walks (only in biomes that allow snow)
+- Snowballs stagger and knock back mobs (useful for pushing mobs off cliffs)
+- Snowballs deal 3 damage to Blazes specifically
+- Can be sheared to remove pumpkin and reveal its face
+- Wearing a pumpkin protects it from Endermen aggro
+
+Weaknesses:
+- Takes damage in rain and warm/hot biomes (Savanna, Desert, etc.)
+- Takes damage in contact with water
+- Very low HP — dies almost instantly to any damage
+- Biome-restricted usefulness (melts in warm climates)
+
+Immunities:
+- Cold / freezing
+- Its own snowballs
+
+Behavior:
+- Wanders and automatically throws snowballs at hostile mobs
+- Runs away from hostile mobs while pelting them
+- Creates snow trail in cold biomes
+
+Sounds: Squeaky/icy sounds
+
+Notes:
+- Useful for distraction in Nether (throw into Blaze room — snowballs deal real damage)
+- Snow farms (using snow golems on snow-covered terrain)
+- Very fragile — not a real combat unit, more of a decoy/utility mob
+- The pumpkin head is the default look — shearing reveals a happy snowman face
+- Makes good automated Blaze counter-units if protected from hazards

@@ -1,0 +1,51 @@
+Name: Drowned
+Type: Hostile
+Category: Undead
+
+Health: 20 HP (10 hearts)
+Attack Damage: Melee 2-4 / Trident throw 9 (Normal)
+Armor: 2
+Movement Speed: 0.23 (land) / faster in water
+XP Dropped: 5
+
+Spawn Locations:
+- Oceans (all variants)
+- Rivers
+- When a Zombie is submerged in water for 30 seconds
+
+Drops:
+- Rotten Flesh (0-2)
+- Gold Ingot (5% — Bedrock only without looting)
+- Trident (8.5% if holding one, Java: 3.75% base — Bedrock: 15%)
+- Nautilus Shell (3% if holding one)
+- Copper Ingot (Java 1.17+, 11%)
+
+Special Abilities:
+- Swims fast underwater
+- Throws Tridents (if holding one) with high range and damage
+- Slows significantly on land
+- Can convert Zombies that drown into more Drowned
+- Only Drowned that naturally spawn can hold Tridents (not converted Zombies)
+
+Weaknesses:
+- Slower on land
+- Smite enchantment (undead)
+- Sunlight (burns on land)
+
+Immunities:
+- Drowning (breathes underwater indefinitely)
+
+Behavior:
+- Lurks underwater and attacks swimmers
+- Emerges at night to attack coastal areas
+- Throws Trident from range
+- Excellent swimmer — hard to escape underwater
+
+Sounds: Gurgling, wet zombie sounds
+
+Notes:
+- The aquatic undead variant — most dangerous in water
+- Trident farm requires dedicated Drowned farm since only natural spawns carry them
+- Copper Ingots (Java) make Drowned farms useful for copper farming
+- Converted Drowned (from Zombies) cannot carry Tridents — farming distinction
+- Nautilus Shells used to craft Conduit (underwater beacon equivalent)

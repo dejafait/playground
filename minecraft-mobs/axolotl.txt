@@ -1,0 +1,48 @@
+Name: Axolotl
+Type: Passive (attacks aquatic hostile mobs)
+Category: Animal / Aquatic
+
+Health: 14 HP (7 hearts)
+Attack Damage: 2 (bite)
+Armor: 0
+Movement Speed: Fast swimmer
+XP Dropped: 1-3
+
+Spawn Locations:
+- Lush Caves biome (underground water bodies)
+- Requires clay blocks underneath to spawn
+
+Color Variants (5):
+- Lucy (pink) — most common
+- Wild (brown) — common
+- Gold (yellow) — common
+- Cyan (blue-green) — common
+- Blue (rare — 1/1200 chance) — extremely rare
+
+Special Abilities:
+- Plays Dead: When damaged, may enter "playing dead" state (1 HP, 1/3 chance)
+  — Regenerates 4 HP over 10 seconds while playing dead
+- Gives Regeneration I and removes Mining Fatigue when player kills a mob the Axolotl is attacking
+- Targets and attacks: Fish, Squid, Glow Squid, Drowned, Guardians, Elder Guardians
+- Can be scooped up in a Bucket of Water and transported
+- Needs to stay moist — takes damage in dry areas outside water (but can survive briefly)
+- Can be bred with Tropical Fish
+
+Carrying Axolotls:
+- Scoop with Water Bucket → Bucket of Axolotl
+- Transport anywhere and release in new water
+
+Behavior:
+- Swims in Lush Cave waters
+- Attacks any aquatic mobs (Drowned, Guardians, fish) on sight
+- Plays dead when near death
+- Washes ashore and flops around on land temporarily
+
+Sounds: Gurgling, splashing
+
+Notes:
+- Inspired by the real axolotl (critically endangered amphibian native to Mexico)
+- Blue axolotls represent real-world rare mutations
+- One of the best Ocean Monument raid companions — they tank Guardians and give player Regeneration
+- Unlimited Axolotl + bucket = portable fish-killing army
+- Added in 1.17 as part of the Caves and Cliffs update

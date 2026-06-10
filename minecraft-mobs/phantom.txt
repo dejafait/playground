@@ -1,0 +1,48 @@
+Name: Phantom
+Type: Hostile
+Category: Undead / Flying
+
+Health: 20 HP (10 hearts)
+Attack Damage: 6 (Easy) / 6 (Normal) / 12 (Hard)
+Armor: 0
+Movement Speed: Flies at 0.50-0.75 (swooping)
+Size: Small (0.5 × 0.5 × 0.5) to Large (16× scale)
+XP Dropped: 5
+
+Spawn Locations:
+- Overworld sky (night time)
+- Only spawns when the player has not slept or died for 3+ in-game days
+- Altitude: Y=80-120 (higher if higher terrain is present)
+
+Drops:
+- Phantom Membrane (0-1, up to 4 with Looting III)
+
+Special Abilities:
+- Swoops down at the player from high altitude
+- Burns in sunlight (only while actively attacking the player)
+- Phantoms are scared of Cats (flee from them)
+- Spawn in groups of 1-4, scaling with consecutive sleepless nights
+- Size varies (1-3 scale variants exist via commands)
+
+Weaknesses:
+- Sleeping removes the spawn condition (killing all current Phantoms after a rest)
+- Cats — Phantoms flee from them
+- Sunlight during their swoop attack
+
+Immunities:
+- None specific
+
+Behavior:
+- Circles at high altitude
+- Swoops down in a curved attack and retreats back up
+- Targets the player who hasn't slept
+- Multiple spawn and attack in waves
+
+Sounds: Shrieking, flapping wings
+
+Notes:
+- Added as the result of a mob vote at MINECON Earth 2017
+- Phantom Membranes are used to repair Elytra (critical late-game item)
+- Also used in Potions of Slow Falling
+- One of the few mobs that punishes the player for poor gameplay habits (not sleeping)
+- Cats are the easiest natural deterrent — keep one nearby

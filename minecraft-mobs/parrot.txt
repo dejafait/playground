@@ -1,0 +1,54 @@
+Name: Parrot
+Type: Passive
+Category: Animal / Tameable
+
+Health: 6 HP (3 hearts)
+Attack Damage: None
+Armor: 0
+Movement Speed: Flies at 0.50
+XP Dropped: 1-3
+
+Spawn Locations:
+- Jungle
+- Bamboo Jungle
+- Sparse Jungle
+
+Color Variants (5):
+- Red
+- Blue
+- Green
+- Cyan
+- Gray
+
+Taming:
+- Feed Seeds (Wheat, Melon, Pumpkin, or Beetroot seeds) — random chance per seed
+- Multiple seeds usually needed
+- Once tamed, perches on player's shoulder when close
+
+Special Abilities:
+- Mimics nearby mob sounds — plays sounds of mobs within ~20 blocks
+  (Great for detecting hidden Creepers or Zombies nearby!)
+- Sits on player's shoulder (both shoulders can have a parrot each)
+- Dances when near a Music Disc playing in a Jukebox
+- Can be ordered to sit or follow (like wolf)
+- DEADLY with Cookies: feeding a Cookie instantly kills the parrot
+  (This is actually educational — real parrots are fatally sensitive to xylitol)
+
+Shoulder Mechanics:
+- Jump or fall to dismount the parrot from your shoulder
+- Parrots on shoulders see what you see (their POV follows yours)
+
+Behavior:
+- Flies and hovers near player
+- Mimics mob sounds as a proximity warning system
+- Dances to Jukebox music
+- Sits on player shoulders
+
+Sounds: Squawking, mimicked mob sounds, dancing chirps
+
+Notes:
+- The mimic ability is genuinely useful — a parrot squawking a Creeper sound means danger nearby
+- The Cookie mechanic is one of Minecraft's rare real-world educational touches
+- Both shoulder slots can hold a parrot simultaneously (one on each shoulder)
+- One of the more interactive and charming companion mobs
+- 5 variants covering most of the bright color spectrum

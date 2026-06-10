@@ -1,0 +1,48 @@
+Name: Husk
+Type: Hostile
+Category: Undead
+
+Health: 20 HP (10 hearts)
+Attack Damage: 3 (Easy) / 4 + Hunger II for 7s (Normal) / 6 + Hunger II for 15s (Hard)
+Armor: 2
+Movement Speed: 0.23
+XP Dropped: 5
+
+Spawn Locations:
+- Desert biomes exclusively (surface spawning during day and night)
+
+Drops:
+- Rotten Flesh (0-2)
+- Carrot (rare, 2.5%)
+- Potato (rare, 2.5%)
+- Iron Ingot (rare, 2.5%)
+- Equipped items (rare)
+
+Special Abilities:
+- Does NOT burn in sunlight — unique among undead humanoids
+- Inflicts Hunger status effect on hit (drains food bar)
+- If submerged in water long enough, converts to a Zombie
+- Can pick up and equip items
+- Breaks down doors on Hard difficulty (like Zombie)
+
+Weaknesses:
+- Water causes conversion to Zombie (not instant death)
+- Smite enchantment (undead)
+- Standard weapons
+
+Immunities:
+- Sunlight (does not burn)
+
+Behavior:
+- Wanders the desert during day and night
+- Attacks players, villagers, and iron golems on sight
+- Behaves like a Zombie but spawns in and tolerates sunlight
+- Converts to Zombie when in water
+
+Sounds: Same as Zombie — groaning
+
+Notes:
+- The desert variant of the Zombie
+- The most dangerous aspect is the Hunger effect — drains food quickly and prevents sprinting
+- Husks wandering in daylight in deserts are a surprising threat for new players
+- Can turn into a Zombie and then a Drowned if submerged in water long enough

@@ -1,0 +1,57 @@
+Name: Rabbit
+Type: Passive (Killer Bunny variant is Hostile)
+Category: Animal
+
+Health: 3 HP (1.5 hearts)
+Attack Damage: None (Killer Bunny: 8 Normal / 5 Easy)
+Armor: 0
+Movement Speed: 0.30 (hops quickly)
+XP Dropped: 1-3
+
+Spawn Locations:
+- Desert
+- Flower Forest
+- Taiga
+- Snowy Tundra
+- Meadow
+- Frozen Ocean
+
+Color Variants (based on biome):
+- Brown (common)
+- White (snowy biomes)
+- Black and White (forest)
+- Gold (desert)
+- Salt and Pepper (taiga)
+- Black (rare)
+- Toast (named variant — tribute to a developer's lost real rabbit)
+
+Drops:
+- Raw Rabbit (0-1)
+- Rabbit Hide (0-1)
+- Rabbit's Foot (10% chance — increased by Looting)
+
+Special Items:
+- Rabbit Hide: 4 Rabbit Hides → 1 Leather (useful early game in snowy biomes)
+- Rabbit's Foot: Brewing ingredient for Potion of Leaping
+- Raw Rabbit: Food (can be cooked or made into Rabbit Stew)
+
+Special Variants:
+- Killer Bunny: Only via commands / old Easter egg in Java — hostile, attacks players
+  (reference to Monty Python and the Holy Grail "The Killer Rabbit of Caerbannog")
+- Toast: Name tag a rabbit "Toast" — turns it into a black and white rabbit
+  (tribute to a Reddit user's missing rabbit)
+
+Behavior:
+- Hops around quickly
+- Very fast and hard to catch
+- Follows players holding Carrots or Dandelions
+- Flees when attacked
+
+Sounds: Squeaking, soft hop sounds
+
+Notes:
+- Rabbit Stew is one of the highest-saturation food items in the game
+- Rabbit farms are uncommon but the Rabbit's Foot makes them valuable
+- The "Toast" variant is one of Minecraft's most emotional easter eggs
+- Rabbits are the only mob that naturally flee from players
+- The Killer Bunny can be summoned with: /summon rabbit ~ ~ ~ {RabbitType:99}

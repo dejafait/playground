@@ -1,0 +1,46 @@
+Name: Ravager
+Type: Hostile
+Category: Illager / Beast
+
+Health: 100 HP (50 hearts)
+Attack Damage: 12 (Easy) / 18 (Normal) / 26 (Hard)
+Armor: 50% damage reduction
+Movement Speed: 0.45
+XP Dropped: 20
+
+Spawn Locations:
+- Raids (wave 3 onwards — ridden by various Illagers)
+- Does not spawn anywhere outside of Raids
+
+Drops:
+- Saddle (1, guaranteed)
+
+Special Abilities:
+- Roars after being stunned — knocks back all nearby entities (1 block radius, massive knockback)
+- Destroys most crops and leaves when walking through them
+- Stuns when attacked (briefly stops — then roars)
+- Can be ridden by Vindicators, Pillagers, and Evokers during raids
+- Large knockback on every attack
+
+Weaknesses:
+- Cannot easily be blocked with a shield (knockback still applies)
+- High HP so requires sustained damage
+- Can be stun-locked briefly
+
+Immunities:
+- None, but has natural armor/damage reduction
+
+Behavior:
+- Charges toward players and villagers
+- Roars and pushes away enemies after being hit
+- Levels farmland as it runs through crops
+- Ridden by other Illagers who continue attacking from its back
+
+Sounds: Loud roaring, stomping
+
+Notes:
+- Riding Ravagers (Illagers atop) require killing the rider first to dismount the Ravager
+- The saddle it drops is the only guaranteed drop — useful for horses
+- Ravagers will flatten entire village farms in seconds
+- One of the most visually impressive mobs in the game
+- High damage + knockback makes them extremely dangerous in village defense

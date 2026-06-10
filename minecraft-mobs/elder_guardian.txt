@@ -1,0 +1,51 @@
+Name: Elder Guardian
+Type: Hostile
+Category: Aquatic Monster / Mini-Boss
+
+Health: 80 HP (40 hearts)
+Attack Damage: Laser 12 / Thorns 2 (melee retaliation)
+Armor: 0
+Movement Speed: Swims at ~0.30
+XP Dropped: 10
+Count per Monument: 3 (one per wing + one in top room)
+
+Spawn Locations:
+- Ocean Monuments (3 per monument — fixed spawn, does not respawn)
+
+Drops:
+- Wet Sponge (1, guaranteed)
+- Prismarine Shard (0-2)
+- Prismarine Crystal (0-1)
+- Raw Cod (0-1)
+- Fish (various)
+
+Special Abilities:
+- Inflicts Mining Fatigue III on all nearby players every 60 seconds
+  (Causes player screen to show a ghostly Elder Guardian image)
+- Mining Fatigue III makes breaking blocks nearly 5x slower (prevents looting monument quickly)
+- Stronger laser attack than regular Guardians
+- Thorns retaliation damage on melee hits
+- Does not despawn (like regular Guardians in a monument)
+
+Weaknesses:
+- Milk cures Mining Fatigue temporarily (~3 seconds before re-affliction)
+- Same laser interruption mechanic as Guardian
+- Ranged attacks avoid Thorns retaliation
+
+Immunities:
+- Drowning
+
+Behavior:
+- Patrols specific rooms in the Ocean Monument
+- Periodically afflicts all nearby players with Mining Fatigue III
+- Fires laser at players in range
+- Fixed to specific locations in the Monument
+
+Sounds: Deeper, more resonant version of Guardian sounds
+
+Notes:
+- 3 Elder Guardians must be killed to fully "clear" an Ocean Monument
+- Wet Sponges they drop are essential for draining the monument for building
+- Mining Fatigue III is the defining mechanic that makes monuments so difficult
+- One of the most architecturally interesting structures in Minecraft
+- After all 3 are killed, the Monument is safe for building/farming

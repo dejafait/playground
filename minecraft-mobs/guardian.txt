@@ -1,0 +1,50 @@
+Name: Guardian
+Type: Hostile
+Category: Aquatic Monster
+
+Health: 30 HP (15 hearts)
+Attack Damage: Laser 6 (charges over 2 seconds) / Thorns 2 (if player melee attacks)
+Armor: 0
+Movement Speed: Swims at ~0.30
+XP Dropped: 10
+
+Spawn Locations:
+- Ocean Monuments exclusively
+- Spawns inside and around the monument structure
+
+Drops:
+- Prismarine Shard (0-2)
+- Prismarine Crystal (0-1)
+- Raw Cod (0-1)
+- Wet Sponge (Elder Guardian only — regular Guardian: rare)
+
+Special Abilities:
+- Laser attack: charges for 2 seconds showing a yellow-to-orange beam, then deals burst damage
+- Thorns effect: deals 2 damage to any entity that hits it with a melee attack
+- Eye on its body tracks the player during laser charge
+- Pulses its spines while attacking
+- Inflicts Mining Fatigue on nearby players (via Elder Guardian — but Guardians contribute to the monument defense)
+
+Weaknesses:
+- Breaking line-of-sight interrupts the laser charge
+- Out of water (takes suffocation damage — no, actually they can survive briefly on land)
+- Attack it during laser charge start to take no damage (laser must fully charge)
+- Axe vs shield is effective due to Thorns
+
+Immunities:
+- Drowning
+
+Behavior:
+- Patrols the Ocean Monument area
+- Fires laser at players who get too close
+- Retracts spines when swimming, extends when targeting
+- Swims away after firing then charges again
+
+Sounds: Electrical humming, pulsing laser sounds
+
+Notes:
+- Ocean Monuments contain 8 Elder Guardians and many Guardians
+- Prismarine materials are used for decorative building blocks
+- Prismarine Crystals are used to craft Sea Lanterns (underwater light)
+- Defeating Ocean Monuments is a major mid-game challenge
+- Guardian farms are among the most efficient XP and fish farms in the game

@@ -1,0 +1,54 @@
+Name: Goat
+Type: Neutral (rams occasionally)
+Category: Animal
+
+Health: 10 HP (5 hearts)
+Attack Damage: 3 (normal ram) / 5 (screaming goat ram)
+Armor: 0
+Movement Speed: 0.40
+XP Dropped: 1-3
+
+Spawn Locations:
+- Frozen Peaks
+- Jagged Peaks
+- Stony Peaks
+- Meadow (rarely)
+- Grove (rarely)
+
+Drops:
+- Nothing (milk with Bucket — Goat Milk identical to Cow Milk)
+
+Breeding:
+- Feed 2 Goats Wheat
+
+Variants:
+- Normal Goat (98%)
+- Screaming Goat (2% — makes exaggerated screaming sounds, rams more frequently)
+
+Special Abilities:
+- Rams players and mobs randomly (long charging animation before impact)
+- Rams hard blocks or entities when charging — if hits a hard block, drops Goat Horn
+- Goat Horn: When blown, makes a raid horn sound — various types based on which block it hits
+  (can be found in various types: Ponder, Sing, Seek, Feel, Admire, Call, Yearn, Dream)
+- Extra long jump height (10 blocks!) — traverses mountain terrain easily
+- Screaming Goats ram far more often than normal goats
+- Does not take fall damage when landing on blocks designated safe
+- Can be milked with Bucket
+
+Goat Horn Types (dropped when ramming different hardness blocks):
+- Different sounds based on block type rammed (wood vs stone etc.)
+
+Behavior:
+- Wanders mountain terrain
+- Occasionally charges at player or mobs
+- Jumps huge distances to cross terrain
+- Screaming goat does all normal sounds but louder/distorted
+
+Sounds: Bleating normally / Screaming Goat: extremely loud, comical scream
+
+Notes:
+- Screaming Goat sounds became a major internet meme before/after Minecraft 1.17
+- Goat Horns are used in Raids sound signaling (cosmetic use)
+- The extremely long jump makes them impressive to watch on cliff edges
+- Added in 1.17 as part of the mountain biome overhaul
+- Goats falling off cliffs is a common and comedic occurrence

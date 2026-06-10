@@ -1,0 +1,49 @@
+Name: Magma Cube
+Type: Hostile
+Category: Nether Monster
+
+Health: Large 16 HP / Medium 4 HP / Small 1 HP
+Attack Damage: Large 6 / Medium 4 / Small 3
+Armor: Large 6 / Medium 3 / Small 0
+Movement Speed: Large 0.20 / Medium 0.45 / Small 0.65 (bouncing)
+XP Dropped: Large 4 / Medium 2 / Small 1
+
+Spawn Locations:
+- Nether (all biomes, common in Basalt Deltas)
+- Magma Cube Spawners in Bastion Remnants
+- Around Nether Fortress Blazes (occasionally)
+
+Drops:
+- Magma Cream (0-1, all sizes)
+- Blaze Powder (if Magma Cube is slain in specific circumstances — actually just Magma Cream)
+
+Special Abilities:
+- Splits into 2-4 smaller Magma Cubes when killed
+- Immune to fire and lava
+- Immune to fall damage
+- Bounces toward player — jumps high and far
+- Fiery outer shell appearance
+- Hard exterior gives partial armor
+
+Weaknesses:
+- Standard melee/ranged attacks
+- Can be difficult to hit while bouncing
+
+Immunities:
+- Fire and lava
+- Fall damage
+
+Behavior:
+- Bounces around the Nether
+- Pursues players aggressively
+- Splits on death like Slimes
+- More dangerous than Slimes due to fire immunity and higher damage
+
+Sounds: Squishy bouncing sounds, fire crackling
+
+Notes:
+- Nether equivalent of the Slime
+- Magma Cream is essential for Potions of Fire Resistance
+- Common in Basalt Deltas where they swarm in large numbers
+- Despite being fire-related, the mob itself looks like a lava-filled cube
+- Small Magma Cubes still deal 3 damage — unlike Slimes which deal 0

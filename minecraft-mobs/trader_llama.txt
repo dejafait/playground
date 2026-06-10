@@ -1,0 +1,48 @@
+Name: Trader Llama
+Type: Neutral (spits when provoked)
+Category: Animal / Pack Animal
+
+Health: 15-30 HP (varies)
+Attack Damage: Spit — 1 damage
+Armor: 0
+Movement Speed: 0.175
+XP Dropped: 1-3
+
+Spawn Locations:
+- Always spawned with Wandering Traders (2 per trader)
+- Does not spawn independently
+
+Drops:
+- Leather (0-2)
+
+Equipment:
+- Always wears a Blue or Cyan Carpet (distinguishes from wild Llama)
+- Can carry a Chest (like regular Llama — but chest is for Wandering Trader's use)
+
+Special Abilities:
+- Same as regular Llama:
+  - Can carry Chest (inventory slots based on Strength)
+  - Spits at attackers (1 damage)
+  - Forms caravan when leashed
+- When Wandering Trader is killed, Trader Llamas remain in the world
+- Can be tamed after the Wandering Trader despawns/dies
+
+Differences from Regular Llama:
+- Wears blue/cyan carpet by default (visual indicator)
+- Spawns exclusively with Wandering Traders
+- Stays near the Wandering Trader while it lives
+- Same stats and behavior otherwise
+
+Behavior:
+- Follows Wandering Trader in a caravan
+- Spits at entities that attack the Wandering Trader
+- After Trader death, behaves like a normal Llama
+
+Sounds: Humming, spitting
+
+Notes:
+- The Blue Carpet differentiates them visually from wild Llamas
+- After the Wandering Trader despawns, Trader Llamas are often abandoned
+- Killing the Wandering Trader to get its two Trader Llamas is a common strategy for free Llamas
+- Killing a Trader Llama gives Hero of the Village status a small reduction — be careful in villages
+- Functionally identical to regular Llamas once the Wandering Trader is gone

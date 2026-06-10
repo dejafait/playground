@@ -1,0 +1,52 @@
+Name: Zombie
+Type: Hostile
+Category: Undead
+
+Health: 20 HP (10 hearts)
+Attack Damage: 3 (Easy) / 4 (Normal) / 6 (Hard)
+Armor: 2
+Movement Speed: 0.23 (faster when pursuing player)
+XP Dropped: 5 (adult) / 12 (baby)
+
+Spawn Locations:
+- Overworld (night, light level 0)
+- Caves and dungeons
+- Zombie spawners in dungeons
+
+Drops:
+- Rotten Flesh (0-2)
+- Carrot (rare, 2.5%)
+- Potato (rare, 2.5%)
+- Iron Ingot (rare, 2.5%)
+- Any armor/weapon if equipped (8.5%)
+
+Special Abilities:
+- Burns in direct sunlight (unless wearing helmet)
+- Can call zombie reinforcements when attacked
+- Can pick up and equip dropped items
+- Breaks down wooden doors on Hard difficulty
+- Baby zombies move faster and can ride chickens (Chicken Jockey)
+- Zombies that drown transform into Drowned
+
+Weaknesses:
+- Sunlight (catches fire)
+- Fire and lava
+- Holy water / potions of Healing deal damage
+
+Immunities:
+- Poison
+- Regeneration does not affect them
+
+Behavior:
+- Wanders aimlessly at night or in dark areas
+- Chases players within 40 blocks (can be increased if player has been seen)
+- Avoids sunlight during the day (seeks shade)
+- Groups up when reinforcements are called
+
+Sounds: Groaning, shuffling
+
+Notes:
+- One of the most common hostile mobs
+- Baby zombies are smaller, faster, and worth more XP
+- Zombies wearing armor won't burn in sunlight
+- Can be found in zombie villages (zombie villagers)

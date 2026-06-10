@@ -1,0 +1,44 @@
+Name: Endermite
+Type: Hostile
+Category: Arthropod
+
+Health: 8 HP (4 hearts)
+Attack Damage: 2
+Armor: 0
+Movement Speed: 0.25
+Size: Very small (0.4 × 0.3 × 0.4)
+XP Dropped: 3
+
+Spawn Locations:
+- 15% chance to spawn when a player throws an Ender Pearl
+- Very rarely spawns in The End
+
+Drops:
+- Nothing
+
+Special Abilities:
+- Endermen are naturally hostile to Endermites and will hunt and kill them
+  (Used to build Enderman XP farms — Endermite in a minecart attracts Endermen)
+- Very small — hard to hit
+- Short lifespan — despawns after 2 minutes unless named with a Name Tag
+
+Weaknesses:
+- Bane of Arthropods enchantment
+- Standard attacks — very low HP
+
+Immunities:
+- None
+
+Behavior:
+- Attacks players immediately
+- Causes nearby Endermen to attack it (mutual hostility)
+- Despawns quickly if not named
+
+Sounds: Chittering, similar to silverfish
+
+Notes:
+- The Endermite is critical for building Enderman farms in The End
+- By placing a named Endermite in a minecart, Endermen are drawn to it and fall into a trap
+- Bane of Arthropods enchantment applies
+- One of the rarest mobs to find without throwing Ender Pearls
+- Despite being tiny, it does respectable damage per hit

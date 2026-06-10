@@ -1,0 +1,49 @@
+Name: Sniffer
+Type: Passive
+Category: Ancient Animal
+
+Health: 14 HP (7 hearts)
+Attack Damage: None
+Armor: 0
+Movement Speed: 0.10 (very slow)
+XP Dropped: 1-3
+Size: Largest passive mob in the game
+
+Spawn Locations:
+- Does not spawn naturally — must be hatched from a Sniffer Egg
+- Sniffer Eggs found in Suspicious Sand/Gravel at Warm Ocean Ruins (using Brush tool)
+
+Drops:
+- Nothing
+
+Sniffing Mechanic:
+- Sniffers sniff the air, then dig in Dirt, Grass, Podzol, Moss, Mud, or Muddy Mangrove Roots
+- Digging uncovers Ancient Seeds:
+  - Torchflower Seeds
+  - Pitcher Pod
+- Sniffs every 8 minutes approximately (one seed per sniff)
+- Seeds grow into unique decorative plants not obtainable any other way
+
+Ancient Plants Grown from Sniffer Seeds:
+- Torchflower: Bright orange flower, used in breeding Sniffers and as decoration
+- Pitcher Plant: Tall decorative pitcher-shaped plant (2 blocks tall)
+
+Breeding:
+- Feed 2 adult Sniffers Torchflower Seeds
+- Baby Sniffer grows into adult (~20 minutes)
+
+Behavior:
+- Wanders slowly
+- Periodically stops and sniffs ground
+- Digs with front legs to uncover seeds
+- Baby Sniffers also sniff but don't uncover seeds
+
+Sounds: Deep sniffing, rumbling
+
+Notes:
+- Won the Minecraft Live 2022 Mob Vote
+- Added in 1.20 (Trails and Tales update)
+- Lore: Ancient mob that went "extinct" — eggs preserved in ocean ruins
+- The only way to obtain Torchflowers and Pitcher Plants
+- Largest mob in the game (excluding bosses) — massive and impressive-looking
+- Torchflowers and Pitcher Pods are used in decoration and as Sniffer breeding items

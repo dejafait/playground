@@ -1,0 +1,57 @@
+Name: Sheep
+Type: Passive
+Category: Animal
+
+Health: 8 HP (4 hearts)
+Attack Damage: None
+Armor: 0
+Movement Speed: 0.23
+XP Dropped: 1-3
+
+Spawn Locations:
+- Plains
+- Forest
+- Mountains
+- Most grassy biomes (common)
+
+Drops:
+- Mutton (1-2, Raw — Cooked if on fire)
+- Wool (1 block, color depends on sheep's color)
+
+Natural Colors:
+- White (81.836%)
+- Brown (3%)
+- Black (3%)
+- Gray (3%)
+- Light Gray (3%)
+- Pink (0.164% — very rare)
+- Brown (5%)
+
+Special Mechanics:
+- Shear with Shears to get 1-3 Wool without killing the sheep
+- Wool regrows after the sheep eats Grass (takes several minutes)
+- Sheep can be dyed with any dye — wool and breeding follow the dye color
+- Two dyed sheep bred together can produce mixed-color offspring
+
+Breeding:
+- Feed 2 Sheep Wheat
+
+Special Abilities:
+- Eating Grass Block converts it to Dirt and regrows their wool
+- Can be dyed all 16 colors
+- Jeb_ name tag makes sheep cycle through all colors (rainbow sheep)
+- Brown sheep = brown wool which cannot be made with white wool + dye
+
+Behavior:
+- Wanders and grazes
+- Eats grass to regrow wool
+- Follows players holding Wheat
+
+Sounds: Bleating
+
+Notes:
+- Wool is required for Beds (critical early game item — controls night/Phantom spawning)
+- Shearing is more efficient than killing — returns more wool over time
+- The "Jeb_" easter egg is one of Minecraft's most famous hidden features
+- Required for crafting Beds, Banners, Paintings, and Carpets
+- Pink sheep are rare and considered lucky by many players

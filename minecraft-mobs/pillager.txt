@@ -1,0 +1,50 @@
+Name: Pillager
+Type: Hostile
+Category: Illager
+
+Health: 24 HP (12 hearts)
+Attack Damage: Crossbow 4-5 (Normal)
+Armor: 0
+Movement Speed: 0.35
+XP Dropped: 5
+
+Spawn Locations:
+- Pillager Outposts (dedicated structure)
+- Illager Patrols (roaming overworld groups)
+- Raids (all waves)
+
+Drops:
+- Crossbow (8.5%, may be enchanted)
+- Arrows (0-2)
+- Emerald (0-1, during Raids)
+- Dark Oak Log (0-1, when carrying banner — Patrol Captain)
+
+Special Abilities:
+- Ranged crossbow attacks with good range and accuracy
+- Patrol Captains carry the Illager Banner — killing one gives Bad Omen status effect
+  (Bad Omen triggers a Raid when entering a village)
+- Reload animation — brief vulnerability while reloading crossbow
+- Attacks villagers, iron golems, wandering traders, and players
+
+Weaknesses:
+- Closing distance forces melee switch (crossbow is close-range awkward)
+- Shield blocks crossbow bolts entirely
+- While reloading
+
+Immunities:
+- None
+
+Behavior:
+- Patrols and guards Pillager Outposts
+- Roams in Patrol groups (2-5 Pillagers)
+- Shoots from range, retreats when player closes in
+- Patrol leaders hold Illager Banner overhead
+
+Sounds: Crossbow loading, villager-like grunts
+
+Notes:
+- Killing a Patrol Captain = Bad Omen → triggers Raid on next village entry (intentional mechanic)
+- Raids give Hero of the Village status (discounted villager trades)
+- Pillager Outposts are the first major Illager threat players encounter
+- Crossbow can be enchanted — Multishot and Piercing are powerful on them
+- Wandering Traders are also targets — explaining why they're sometimes found dead

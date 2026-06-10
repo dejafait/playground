@@ -1,0 +1,46 @@
+Name: Cod
+Type: Passive
+Category: Animal / Aquatic
+
+Health: 3 HP (1.5 hearts)
+Attack Damage: None
+Armor: 0
+Movement Speed: Swims in schools
+XP Dropped: 1-3
+
+Spawn Locations:
+- Ocean (normal)
+- Cold Ocean
+- Lukewarm Ocean
+- Frozen Ocean (rarely)
+- Schools of 3-7 fish
+
+Drops:
+- Raw Cod (1)
+- Bone Meal (rarely)
+- Cooked Cod (if killed by fire)
+
+Special Abilities:
+- Schools in groups of 3-7
+- Can be caught in Water Bucket
+- Very common food source
+- Fishing Rods can catch Cod from any water source (including non-ocean)
+
+Cod Item:
+- Raw Cod: 2 hunger bars, 0.4 saturation
+- Cooked Cod: 5 hunger bars, 6 saturation — much better cooked
+- Also fed to Dolphins, Cats, Ocelots (trust building), and Polar Bears
+- Used to tame Cats and Ocelots (as alternative to Salmon)
+
+Behavior:
+- Schools in mid-water depth
+- Changes direction as a group
+
+Sounds: Bubbling
+
+Notes:
+- One of the most common aquatic mobs
+- Important for feeding Dolphins (for treasure-finding mechanic)
+- Farming cod (with buckets and automated systems) is an easy food source
+- Also used in Fisherman villager trades
+- Cooked Cod is decent mid-game food when other sources aren't available

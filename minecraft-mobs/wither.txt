@@ -1,0 +1,70 @@
+Name: Wither
+Type: Boss
+Category: Boss Mob / Undead
+
+Health: 300 HP (150 hearts) — Java Edition
+        600 HP (300 hearts) — Bedrock Edition
+Attack Damage: Wither Skull (blue/black) 8 + Wither II effect
+              Blue Wither Skull: 12 + Wither II + cannot be deflected + destroys blocks
+              Dash Attack: 15 (Bedrock only, below half health)
+Armor: Natural armor equivalent to 4 armor
+Movement Speed: Flies
+XP Dropped: 50
+
+Summoned By:
+- Player-crafted: 4 Soul Sand / Soul Soil in T-shape + 3 Wither Skeleton Skulls on top
+- Can be summoned in any dimension
+
+Drops:
+- Nether Star (1, guaranteed)
+- 50 XP
+
+Phases:
+Phase 1 (Full HP):
+- Shoots both black and blue Wither Skulls
+- Can be damaged normally
+
+Phase 2 (Below 50% HP, Java Edition):
+- Gains a "Wither Armor" shield — immune to projectiles
+- Must be killed with melee weapons
+- Attacks more frequently
+- (Bedrock) Gains new Dash attack and spawns Wither Skeletons
+
+Special Abilities:
+- Wither Effect: Turns hearts black, drains HP over time — milk cures it
+- Blue Wither Skulls: Explosive, bypass shields, destroy blocks (obsidian-proof structures stop normal skulls)
+- Destroys all blocks (except bedrock and end portal frames) with contact and explosions
+- Immune to fire, lava, drowning, and all potion effects
+- Heals from dealing damage to undead mobs (in Bedrock)
+- Summons Wither Skeletons (Bedrock, phase 2)
+
+Construction Recipe:
+Row 1: Soul Sand, Soul Sand, Soul Sand
+Row 2: Wither Skull, Wither Skull, Wither Skull
+(Must be in 3D T-shape formation, skulls on top — in world, not crafting table)
+
+Immunities:
+- Fire and lava
+- All potion effects
+- Drowning
+- Suffocation damage
+
+Weaknesses:
+- Beacon beam (Java: damages and weakens)
+- Melee weapons in Phase 2 (projectile immune)
+- Can be pinned underground where it can't fly well
+
+Behavior:
+- Explosion on spawn that destroys surrounding area (warning: don't spawn in your base)
+- Flies around targeting players and mobs
+- Prioritizes attacking living mobs and players
+- Destroys terrain as it moves
+
+Sounds: Eerie moaning, explosion sounds, boss music
+
+Notes:
+- One of the two bosses in Minecraft (along with the Ender Dragon)
+- The Nether Star is used to craft the Beacon — one of the most powerful utility blocks
+- Spawning in the Nether underground (bedrock ceiling) is a popular strategy
+- Blue Skull + obsidian box is the safest overworld kill method
+- The Wither is often considered harder than the Ender Dragon on Java
