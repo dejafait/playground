@@ -1,0 +1,8 @@
+HTML Color Code: #FFFFFF
+
+Translations:
+French:    Blanc
+Spanish:   Blanco
+Chinese:   白色 (báisè)
+Hindi:     सफेद (Safed)
+Bulgarian: Бяло (Byalo)

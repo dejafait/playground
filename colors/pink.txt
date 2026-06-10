@@ -1,0 +1,8 @@
+HTML Color Code: #FFC0CB
+
+Translations:
+French:    Rose
+Spanish:   Rosa
+Chinese:   粉色 (fěnsè)
+Hindi:     गुलाबी (Gulabi)
+Bulgarian: Розово (Rozovo)

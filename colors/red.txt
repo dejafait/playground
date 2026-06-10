@@ -1,0 +1,8 @@
+HTML Color Code: #FF0000
+
+Translations:
+French:    Rouge
+Spanish:   Rojo
+Chinese:   红色 (hóngsè)
+Hindi:     लाल (Laal)
+Bulgarian: Червено (Cherveno)

@@ -1,0 +1,8 @@
+HTML Color Code: #800080
+
+Translations:
+French:    Violet
+Spanish:   Morado
+Chinese:   紫色 (zǐsè)
+Hindi:     बैंगनी (Baingani)
+Bulgarian: Лилаво (Lilavo)

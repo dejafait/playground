@@ -1,0 +1,8 @@
+HTML Color Code: #FFA500
+
+Translations:
+French:    Orange
+Spanish:   Naranja
+Chinese:   橙色 (chéngsè)
+Hindi:     नारंगी (Narangi)
+Bulgarian: Оранжево (Oranzhevo)
