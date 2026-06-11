@@ -1,0 +1,57 @@
+Name: Piglin
+Type: Neutral (hostile without gold armor)
+Category: Nether / Humanoid
+
+Health: 16 HP (8 hearts)
+Attack Damage: 5 (sword, Easy) / 8 (Normal) / 13 (Hard) / Crossbow varies
+Armor: 2 (with armor)
+Movement Speed: 0.35
+XP Dropped: 5
+
+Spawn Locations:
+- Crimson Forest (Nether)
+- Bastion Remnants (common)
+
+Drops:
+- Gold Nuggets (0-1)
+- Various barter items if killed while trading
+- Crossbow (8.5%)
+- Golden Sword (8.5%)
+- Gold Helmet, Chestplate, Leggings, Boots (various rarities)
+
+Special Abilities:
+- Barters: right-clicking with Gold Ingot initiates trade for random items
+  (Barter loot: Ender Pearls, Leather, Obsidian, Potions, Arrows, etc.)
+- Attacks players not wearing any gold armor
+- Hunts and attacks Hoglins
+- Hostile to Wither Skeletons and the Wither
+- Retreats from Soul Fire, Soul Torches, and Zombified Piglins
+- Picks up gold items from the ground
+
+Barter Loot Includes:
+- Ender Pearls, Fire Resistance Potions, Gravel, Leather, Nether Brick
+- Iron Boots (enchanted), Iron Nuggets, Magma Cream, Obsidian, Splash Potion of Fire Resistance, String, Water Bottle
+
+Weaknesses:
+- Soul Fire and Soul-based light sources (they flee)
+- Wearing gold armor makes them passive
+- Zombify in Overworld / End (~15 seconds)
+
+Immunities:
+- Fire and lava
+
+Behavior:
+- Attacks players without gold armor on sight
+- Investigates gold items dropped on the ground
+- Hunts Hoglins in packs
+- Celebratory behavior after a Hoglin kill
+- Inspects gold ingot when given for bartering (5-second delay)
+
+Sounds: Snorting pig-like sounds with aggressive grunts
+
+Notes:
+- Bartering is the main way to obtain Ender Pearls in the Nether
+- Must wear at least one piece of gold armor to be safe near Piglins
+- Piglins become Zombified Piglins in the Overworld or End
+- Baby Piglins exist — they play and are never hostile
+- Piglin Brutes are a separate, always-hostile variant found in Bastions

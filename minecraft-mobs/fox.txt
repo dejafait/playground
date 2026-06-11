@@ -1,0 +1,53 @@
+Name: Fox
+Type: Neutral (flees from players — attacks Chickens, Rabbits, Fish)
+Category: Animal
+
+Health: 20 HP (10 hearts)
+Attack Damage: 2 (hunting) / varies
+Armor: 0
+Movement Speed: 0.30 (0.60 sprinting)
+XP Dropped: 1-3
+
+Spawn Locations:
+- Taiga
+- Giant Tree Taiga
+- Snowy Taiga
+- Bamboo Jungle (very rare)
+
+Variants:
+- Red Fox (Taiga biomes)
+- Arctic Fox / White Fox (Snowy Taiga)
+
+Drops:
+- Whatever item it is currently holding in its mouth
+
+Special Abilities:
+- Holds items in its mouth (picks up dropped items from the ground)
+- Pounces on prey (chickens, rabbits, fish, baby turtles)
+- Nocturnal — sleeps during day (under a tree or in shade)
+- Trusted: Two foxes bred with Sweet Berries will produce a baby fox that trusts the player
+  (Will not flee from the player who bred it, and will defend them)
+- Can jump over fences
+- Eats Sweet Berries from bushes (takes damage from spiky bushes but still eats them)
+- Immune to the effects of certain foods/effects while eating
+
+Trusted Foxes:
+- Baby foxes born from player-bred parents naturally trust that player
+- Will not run from player, will attack mobs that attack the player
+- Cannot breed more trusted foxes from a trusted fox + wild fox
+
+Behavior:
+- Flees from players (wild foxes)
+- Sleeps during the day, hunts at night
+- Sneaks up on prey before pouncing
+- Picks up dropped items it finds
+- Eats held food items over time
+
+Sounds: Chirping, barking, sneaking sounds
+
+Notes:
+- One of Minecraft's most charming passive mobs — sleeping foxes are iconic
+- Item-holding mechanic makes them interesting for picking up enchanted items left on the ground
+- The only way to get a player-following fox is through breeding (2 generations)
+- Arctic Fox variant is visually distinctive in snowy biomes
+- Sometimes found sleeping in groups of 2-4

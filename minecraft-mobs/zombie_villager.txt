@@ -1,0 +1,49 @@
+Name: Zombie Villager
+Type: Hostile
+Category: Undead
+
+Health: 20 HP (10 hearts)
+Attack Damage: 3 (Easy) / 4 (Normal) / 6 (Hard)
+Armor: 0
+Movement Speed: 0.23
+XP Dropped: 5
+
+Spawn Locations:
+- Overworld (night, light level 0)
+- When a Zombie kills a Villager (100% Hard, 50% Normal, 0% Easy)
+- Zombie Villages (all villagers are zombified)
+
+Drops:
+- Rotten Flesh (0-2)
+- Iron Ingot (rare)
+- Carrot / Potato (rare)
+- Villager profession item (rare)
+
+Special Abilities:
+- Can be cured into a regular Villager:
+  1. Throw Splash Potion of Weakness at it
+  2. Feed it a Golden Apple
+  3. Wait 2-5 minutes while it shakes/emits red particles
+  → Becomes a Villager with deeply discounted trades (1 emerald for many items)
+- Burns in sunlight (unless helmeted)
+- Retains Villager profession visuals (looks like a zombie with robes)
+
+Weaknesses:
+- Smite enchantment
+- Sunlight
+- Golden Apple + Weakness potion (cures it)
+
+Immunities:
+- Poison (undead)
+
+Behavior:
+- Same as Zombie — chases players, avoids sunlight
+- Can be cured which makes it extremely valuable
+
+Sounds: Zombie sounds with occasional villager "hm" noises
+
+Notes:
+- Curing a Zombie Villager is one of the best investments in the game
+- Cured villagers give massive discounts (often 1 emerald) for all their trades
+- Zombie Villages are rare but all their villagers can be cured for a cheap trading hall
+- Zombie Villagers retain their profession outfit even as zombies

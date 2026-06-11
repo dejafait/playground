@@ -1,0 +1,50 @@
+Name: Chicken
+Type: Passive
+Category: Animal
+
+Health: 4 HP (2 hearts)
+Attack Damage: None
+Armor: 0
+Movement Speed: 0.25
+XP Dropped: 1-3
+
+Spawn Locations:
+- Plains
+- Forest
+- Most grassy biomes (common)
+- Hatches from thrown Eggs (1/8 chance per egg, 1/32 for 4 chickens)
+
+Drops:
+- Raw Chicken (1, Cooked if on fire)
+- Feather (0-2)
+- Egg (occasionally — not on death, but passively while alive)
+
+Breeding:
+- Feed 2 Chickens Seeds (any type: Wheat Seeds, Melon Seeds, Pumpkin Seeds, Beetroot Seeds)
+
+Special Abilities:
+- Lays Eggs every 5-10 minutes (random interval)
+- Floats when falling (flaps wings) — takes no fall damage
+- Baby chickens can hatch from thrown Eggs
+- Eggs can be thrown to potentially spawn baby chickens:
+  12.5% chance of 1 chick, 1/32 chance of 4 chicks
+
+Baby Chickens:
+- Hatch from Eggs thrown at blocks
+- "Chicken Jockey" — Baby Zombies and Baby Husks have a 5% chance to spawn riding a Chicken
+  (Chicken Jockeys are extremely fast — more dangerous than regular baby zombies)
+
+Behavior:
+- Wanders and pecks at ground
+- Follows players holding Seeds
+- Floats down from heights safely
+- Clucks while walking
+
+Sounds: Clucking, squawking when hurt
+
+Notes:
+- Chickens are one of the most efficient food mobs (lay eggs passively)
+- Chicken farms (hopper + egg collection + lava kill) are excellent starter farms
+- Feathers are needed for Arrows (critical crafting item)
+- Raw Chicken has a 30% chance to give Food Poisoning — always cook it
+- Chicken Jockeys are rare but terrifying in a cave ambush

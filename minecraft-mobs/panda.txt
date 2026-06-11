@@ -1,0 +1,49 @@
+Name: Panda
+Type: Neutral (can be aggressive if attacked)
+Category: Animal
+
+Health: 20 HP (10 hearts)
+Attack Damage: 6 (if attacked or aggressive type)
+Armor: 0
+Movement Speed: 0.15 (slow — lazy variant even slower)
+XP Dropped: 1-3
+
+Spawn Locations:
+- Bamboo Jungle
+- Sparse Jungle (rarely, requires nearby bamboo)
+
+Drops:
+- Bamboo (1)
+- Slimeball (occasionally when sneezing — baby pandas)
+
+Personality Types (genetic system):
+Each panda has a hidden and expressed gene determining personality:
+- Normal: Nothing special
+- Lazy: Lies on its back, won't follow player even with food, slowest
+- Worried: Trembles in rain, scared of hostile mobs, won't eat when player nearby
+- Playful: Rolls and somersaults randomly
+- Aggressive: Attacks if provoked, continues attacking for a while
+- Weak: Sneezes more often, low HP variant
+- Brown: Rare recessive gene — gives brown fur coloring
+
+Breeding:
+- Requires at least 8 Bamboo blocks within 5 blocks of both pandas
+- Feed both pandas Bamboo to enter love mode
+- Baby pandas exist — sneeze occasionally (can drop Slimeballs)
+- Personality is inherited (genetic system behind the scenes)
+
+Behavior:
+- Eats Bamboo and Cake items it finds
+- Aggressive type attacks if any panda in area is harmed
+- Lazy type lies on its back periodically
+- Playful type rolls around randomly
+- Baby pandas sneeze and sometimes startle adults into defensive behavior
+
+Sounds: Squeaking, sneezing, munching bamboo
+
+Notes:
+- One of the more complex passive mob systems — genetics determine personality
+- Brown pandas are very rare (both genes must be Brown — recessive)
+- Pandas are endangered in the real world — reflected in their rare spawn and complex breeding requirements
+- Baby panda sneezes are among the most adorable things in Minecraft
+- One of the most complex mob behavior systems in the game

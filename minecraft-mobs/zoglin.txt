@@ -1,0 +1,48 @@
+Name: Zoglin
+Type: Hostile
+Category: Undead
+
+Health: 40 HP (20 hearts)
+Attack Damage: 6 (Easy) / 10 (Normal) / 15 (Hard) — Adult / Baby deals less
+Armor: 0
+Movement Speed: 0.30
+XP Dropped: 5
+
+Spawn Locations:
+- Created when a Hoglin enters the Overworld or The End
+- Does not spawn naturally
+
+Drops:
+- Rotten Flesh (2-4)
+
+Special Abilities:
+- Zombified version of a Hoglin
+- Attacks nearly all mobs and players indiscriminately
+- Cannot be bred or made passive (unlike Hoglin)
+- Immune to most status effects as an undead mob
+- Cannot be distracted by Piglins (unlike Hoglins)
+- Knocks back targets on hit
+
+Weaknesses:
+- Smite enchantment (undead mob — takes bonus damage)
+- Standard combat
+
+Immunities:
+- Fire and lava
+- Poison (undead immunity)
+- Regen potions don't heal them
+- Does not flee from Warped Fungus (unlike Hoglin)
+
+Behavior:
+- Attacks everything it can reach — players, mobs, villagers
+- Completely hostile with no passive trigger
+- Baby Zoglins also exist and are also hostile (unlike baby Hoglins)
+
+Sounds: Undead/zombie-like versions of Hoglin sounds
+
+Notes:
+- The Overworld equivalent of a Hoglin, but far more dangerous
+- Unlike Hoglins, nothing calms a Zoglin down
+- Attacks even other hostile mobs (can be used for mob infighting)
+- Rare to encounter since Hoglins rarely enter the Overworld naturally
+- Baby Zoglins are an unusual exception to baby mobs being passive

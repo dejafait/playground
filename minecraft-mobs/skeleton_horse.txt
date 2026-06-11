@@ -1,0 +1,49 @@
+Name: Skeleton Horse
+Type: Passive (after taming) / Trap (before triggered)
+Category: Undead / Animal / Rideable
+
+Health: 15 HP
+Attack Damage: None
+Armor: 0
+Movement Speed: 0.20
+Jump Height: 0.4-1.0
+XP Dropped: 1-3
+
+Spawn Locations:
+- Skeleton Trap: Spawned by lightning strike in a thunderstorm (rare)
+  (A lone horse stands in the rain — approaching within 10 blocks triggers the trap)
+  → 4 Skeleton Horsemen appear (Skeleton + Skeleton Horse, each Skeleton wears enchanted helmet)
+- Via spawn egg / commands
+
+Drops:
+- Bones (0-2)
+
+Taming:
+- Kill the Skeleton rider — the horse becomes rideable immediately
+- No taming process needed — just ride it
+- Does not require a saddle in some versions
+
+Special Abilities:
+- Can breathe underwater indefinitely
+- Can be ridden underwater without sinking
+- Wears a saddle permanently (cannot be removed in Java)
+- Does not need to eat — no hunger mechanic
+- Burns in sunlight... actually does NOT burn (undead horse but immune to sun)
+- Skeleton riders wear enchanted helmets (prevents burning — by extension the horse roams safely)
+
+Immunities:
+- Drowning
+
+Behavior:
+- The trap horse stands still in rain
+- Approaching triggers the explosion of 4 skeletons on skeleton horses
+- After riders killed, the horses are docile
+
+Sounds: Same as regular horse, slightly more hollow
+
+Notes:
+- The Skeleton Trap is one of Minecraft's most memorable surprise moments
+- Best underwater horse — can swim at horse speed underwater
+- The "zombie horse" exists but does not spawn naturally in survival
+- Each Skeleton rider wears an enchanted iron helmet and carries an enchanted bow
+- Good late-game mount due to water-breathing capability (useful for ocean exploration)

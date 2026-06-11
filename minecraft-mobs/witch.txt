@@ -1,0 +1,57 @@
+Name: Witch
+Type: Hostile
+Category: Illager (Humanoid)
+
+Health: 26 HP (13 hearts)
+Attack Damage: Splash Potions — varies (Poison, Instant Damage, Slowness, Weakness)
+Armor: 0
+Movement Speed: 0.25
+XP Dropped: 5
+
+Spawn Locations:
+- Overworld (night, light level 0, rarely)
+- Witch Huts in Swamp biomes (dedicated spawn)
+- Raids (wave 1 onwards)
+- Created when a Villager is struck by lightning within 4 blocks
+
+Drops:
+- Glowstone Dust (0-2)
+- Sugar (0-2)
+- Redstone (0-2)
+- Spider Eye (0-2)
+- Glass Bottle (0-2)
+- Gunpowder (0-2)
+- Stick (0-2)
+- Potions (if holding one when killed — rare)
+
+Special Abilities:
+- Throws Splash Potions of Poison, Instant Damage, Slowness, and Weakness at players
+- Drinks potions to heal and protect itself:
+  - Instant Health when low HP
+  - Fire Resistance when on fire
+  - Water Breathing when in water
+  - Speed when pursuing a target
+- Highly resistant to many potion effects
+- Does not drink potions when airborne
+
+Weaknesses:
+- Instant Damage potions DO affect witches (they are not undead)
+- Can be interrupted mid-potion-drink by dealing damage
+
+Immunities:
+- Highly resistant to most potion effects (85% resistance)
+- Fire Resistance when threatened by fire
+
+Behavior:
+- Keeps distance and pelts player with potions
+- Self-heals when threatened
+- Joins raids as a support unit
+- Swamp Hut witches never despawn
+
+Sounds: Cackling, muttering, laughing
+
+Notes:
+- Villagers struck by lightning within 4 blocks turn into Witches
+- One of the more dangerous overworld mobs due to potion spam
+- Swamp Hut witches are tied to their structure and never despawn naturally
+- Can be difficult to kill due to self-healing with Instant Health potions

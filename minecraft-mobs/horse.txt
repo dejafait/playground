@@ -1,0 +1,51 @@
+Name: Horse
+Type: Passive
+Category: Animal / Rideable
+
+Health: 15-30 HP (7.5-15 hearts, randomized per individual)
+Attack Damage: None (doesn't attack — though wild horse will kick nearby mobs occasionally)
+Armor: Up to 20 (with Horse Armor equipped)
+Movement Speed: 0.1125-0.3375 (varies per individual — significant range)
+Jump Height: 1.5-5.5 blocks (varies per individual)
+XP Dropped: 1-3
+
+Spawn Locations:
+- Plains
+- Savanna
+- Spawn in herds of 2-6
+
+Coat Variants (35 visual combinations):
+5 base colors × 7 marking patterns:
+Colors: White, Creamy, Chestnut, Brown, Black, Gray, Dark Brown
+Markings: None, White Socks, White Field, White Dots, Black Dots
+
+Taming:
+- Right-click to ride (no items needed)
+- Will buck player off repeatedly until tamed (random chance increases with each attempt)
+- Feed (apples, wheat, sugar, bread, hay bales) to speed up taming
+- Once tamed, put saddle in its inventory to steer
+
+Equipment Slots:
+- Saddle (required to steer/ride)
+- Horse Armor (Iron, Gold, Diamond, or Leather — does NOT break, is permanent)
+
+Special Abilities:
+- Fastest land transportation in the base game
+- Can jump over fences (1.5-5.5 block jump varies by horse — breed for best)
+- Can be bred with Golden Apple or Golden Carrot (two tamed horses)
+- Baby foals exist and can be tamed when grown
+- Speed and jump height are inherited/averaged from parents (breeding optimization)
+
+Behavior:
+- Wanders plains and savannas
+- Follows players holding Golden Apples/Carrots
+- Bred horses inherit stats from parents
+
+Sounds: Neighing, clip-clop hooves, snorting
+
+Notes:
+- Horses have 3 stats: Speed, Jump Height, and HP — all randomized and inheritable
+- Breeding selects the best horses iteratively (selective breeding for speed/jump)
+- Diamond Horse Armor provides the best protection (20 armor points)
+- Horses can't be ridden underwater effectively (swimming horse is very slow)
+- Fastest horse possible (maximum speed) is noticeably faster than Boots of Speed potion

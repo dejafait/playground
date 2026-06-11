@@ -1,0 +1,50 @@
+Name: Bogged
+Type: Hostile
+Category: Undead
+
+Health: 16 HP (8 hearts)
+Attack Damage: Poison Arrow — 2-4 + Poison II for 4 seconds (Normal)
+Armor: 0
+Movement Speed: 0.25
+XP Dropped: 5
+
+Spawn Locations:
+- Swamp biomes
+- Mangrove Swamp biomes
+- Trial Chambers (spawned by Trial Spawners)
+
+Drops:
+- Bones (0-2)
+- Arrows (0-2)
+- Tipped Arrow of Poison (50% chance instead of regular arrow)
+- Bow (8.5%)
+- Mushrooms (Brown and Red, rarely — due to mushroom-covered appearance)
+
+Special Abilities:
+- Shoots Tipped Arrows of Poison — inflicts Poison II for 4 seconds
+- Burns in sunlight (like all skeleton variants)
+- Lower HP than regular Skeleton (16 vs 20)
+- Mushroom/moss-covered appearance
+- Fires slower than a regular skeleton but with the Poison debuff compensation
+
+Weaknesses:
+- Sunlight (burns)
+- Smite enchantment (undead)
+- Lower HP makes it easier to kill than regular Skeleton
+
+Immunities:
+- Poison (the status effect itself)
+
+Behavior:
+- Same as Skeleton — strafe and shoot from range
+- More dangerous in swamps where terrain limits player movement
+- Burns at sunrise
+
+Sounds: Skeleton bone sounds
+
+Notes:
+- Added in 1.21 (Tricky Trials update)
+- Swamp/wetland variant of the Skeleton
+- Mushroom-covered body gives it a distinctive look
+- Lower health than regular skeletons — trades durability for the Poison arrow effect
+- Poison effect from Tipped Arrows stacks with other damage and drains health over time

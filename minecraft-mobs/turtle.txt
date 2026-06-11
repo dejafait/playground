@@ -1,0 +1,50 @@
+Name: Turtle
+Type: Passive
+Category: Animal / Aquatic
+
+Health: 30 HP (15 hearts)
+Attack Damage: None
+Armor: 0
+Movement Speed: 0.25 (water) / 0.08 (land — very slow)
+XP Dropped: 1-3
+
+Spawn Locations:
+- Warm Beaches
+- Lukewarm Ocean Beaches
+- Stony Shores (rarely)
+
+Drops:
+- Seagrass (0-2 when killed as adult)
+- Scute (1, when baby turtle grows into adult — not on death)
+
+Breeding:
+- Feed 2 Turtles Seagrass
+- Pregnant turtle (slightly larger) will attempt to return to its HOME beach (birth beach)
+- Lays 1-4 Turtle Eggs on home beach (can only lay on Sand)
+- Eggs hatch over time into Baby Turtles → grow into adults
+
+Turtle Shell Helmet:
+- Crafted from 5 Scutes
+- Provides Water Breathing +10 seconds when underwater
+- Functions like a helmet with 2 armor points
+
+Special Mechanics:
+- Each turtle has a "home beach" — it always returns to the same beach to lay eggs
+- Turtle Eggs are fragile: Zombies, Husks, Drowned, Skeletons, and Foxes intentionally stomp on them
+- Eggs take 1-3 Minecraft nights to hatch (each night cracks the egg 1 stage)
+- Baby turtles are the smallest mob in the game
+
+Behavior:
+- Wanders beach and ocean
+- Swims fast in water
+- Very slow on land
+- Pregnant turtle pathfinds back to birth beach regardless of distance
+
+Sounds: Bubbling sounds, soft movement sounds
+
+Notes:
+- Scutes from baby turtle growth are the primary reward (not from killing)
+- Turtle Eggs are a key mechanic — protecting them from zombies at night is a challenge
+- The Turtle Shell potion ingredient (Scute) is used for Potion of the Turtle Master
+- Baby turtles are tiny — only 0.12 blocks tall
+- One of the most unique progression mechanics (protecting eggs through hatching)

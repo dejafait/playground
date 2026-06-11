@@ -1,0 +1,47 @@
+Name: Hoglin
+Type: Hostile (passive in safe zones)
+Category: Nether / Animal
+
+Health: 40 HP (20 hearts)
+Attack Damage: 6 (Easy) / 10 (Normal) / 15 (Hard) + knockback
+Armor: 0
+Movement Speed: 0.30
+XP Dropped: 5
+
+Spawn Locations:
+- Crimson Forest (Nether)
+- Bastion Remnants
+
+Drops:
+- Raw Porkchop (2-4, or Cooked Porkchop if on fire)
+- Leather (0-1)
+
+Special Abilities:
+- Knocks player/mobs backward on hit (significant knockback)
+- Can be bred with Crimson Fungus
+- Transforms into Zoglin when entering the Overworld or End
+- Hunted and killed by Piglins (Piglins celebrate after killing one)
+- Avoids and flees from: Warped Fungus, Nether Portals, Respawn Anchors
+
+Weaknesses:
+- Warped Fungus — Hoglins flee from it (use to keep them at bay)
+- Nether Portals and Respawn Anchors (area of safety around these)
+- Piglins will hunt and kill them
+
+Immunities:
+- Fire and lava
+
+Behavior:
+- Attacks players and most non-Piglin mobs on sight
+- Passive only when within range of Warped Fungus / portals
+- Baby Hoglins exist and are passive
+- Can be bred to create a Hoglin farm (porkchop source in Nether)
+
+Sounds: Grunting, squealing when hurt, snorting
+
+Notes:
+- One of the best food sources in the Nether (drops cooked porkchops if on fire)
+- Placing Warped Fungus near you keeps Hoglins away
+- One of the few Nether mobs that can be farmed for food
+- Transforms into Zoglin immediately upon entering Overworld/End
+- Baby Hoglins make excellent passive companions (never hostile)

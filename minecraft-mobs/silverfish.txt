@@ -1,0 +1,49 @@
+Name: Silverfish
+Type: Hostile
+Category: Arthropod
+
+Health: 8 HP (4 hearts)
+Attack Damage: 1
+Armor: 0
+Movement Speed: 0.30
+Size: Very small (0.4 × 0.3 × 0.4)
+XP Dropped: 5
+
+Spawn Locations:
+- Strongholds (hidden in Monster Egg blocks — infested stone/brick)
+- Extreme Hills / Windswept Hills biome surface (infested stone)
+- Igloo basements (infested stone blocks)
+- Silverfish spawner in Stronghold portal room
+
+Drops:
+- Nothing
+
+Special Abilities:
+- Hidden inside Monster Egg blocks (infested stone, cobblestone, stone bricks, etc.)
+  — these blocks take slightly longer to mine and release a Silverfish when broken
+- When a Silverfish is attacked, nearby Silverfish hiding in infested blocks will emerge
+- Can re-enter nearby stone/brick blocks to hide
+- Swarms the player when disturbed in groups
+- Very fast movement for their size
+
+Weaknesses:
+- Bane of Arthropods enchantment
+- Area-of-effect attacks kill groups
+- Mining infested blocks with Silk Touch prevents spawning
+
+Immunities:
+- None
+
+Behavior:
+- Hidden until blocks are disturbed or they're triggered by combat
+- Swarms and overwhelms player in tight Stronghold corridors
+- Re-hides in blocks when idle
+
+Sounds: Rustling, insect-like chittering
+
+Notes:
+- Infested blocks appear identical to normal stone — surprise reveal when mined
+- Mining infested blocks with a sword kills the Silverfish before it can alert others
+- Locating infested blocks (slightly slower to break) helps identify Stronghold proximity
+- The End Portal is located in the Stronghold, making dealing with Silverfish unavoidable
+- Bane of Arthropods III+ adds slowness and bonus damage — effective crowd control

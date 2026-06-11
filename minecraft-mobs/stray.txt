@@ -1,0 +1,50 @@
+Name: Stray
+Type: Hostile
+Category: Undead
+
+Health: 20 HP (10 hearts)
+Attack Damage: Arrow 1-4 + Slowness IV for 30 seconds (Normal/Hard)
+Armor: 2
+Movement Speed: 0.25
+XP Dropped: 5
+
+Spawn Locations:
+- Ice Plains (Snowy Tundra)
+- Ice Mountains
+- Frozen Ocean
+- Frozen River
+- Snowy Beach
+- Also spawns when a Skeleton spawns inside powder snow and freezes
+
+Drops:
+- Bones (0-2)
+- Arrows (0-2)
+- Tipped Arrow of Slowness (50% chance instead of regular arrows)
+- Bow (8.5%)
+
+Special Abilities:
+- Shoots Tipped Arrows of Slowness — slows player movement by 60%
+- Burns in sunlight (same as regular Skeleton)
+- Slowness effect lasts 30 seconds on Normal, longer on Hard
+- Icy/tattered appearance differentiates from regular skeletons
+
+Weaknesses:
+- Sunlight (catches fire)
+- Same weaknesses as regular Skeleton
+
+Immunities:
+- Cold/freezing damage
+
+Behavior:
+- Same as regular Skeleton — strafe and shoot from range
+- Targets players, iron golems, wolves
+- Flees from wolves
+
+Sounds: Same as Skeleton — rattling bones
+
+Notes:
+- Cold biome variant of the Skeleton
+- Slowness arrows make it more dangerous in open combat (kites the player)
+- Useful to farm for Tipped Arrows of Slowness
+- Wrapped in icy/ragged cloth — has a unique visual design
+- Can also spawn when a regular skeleton spawns inside powder snow

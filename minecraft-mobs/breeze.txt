@@ -1,0 +1,48 @@
+Name: Breeze
+Type: Hostile
+Category: Monster / Trial Chambers
+
+Health: 30 HP (15 hearts)
+Attack Damage: Wind Charge impact 1 + knockback (direct) / Environmental hazards from activation
+Armor: 0
+Movement Speed: Jumps and dashes (~0.60)
+XP Dropped: 10
+
+Spawn Locations:
+- Trial Chambers exclusively (generated underground structures)
+- Spawned from Trial Spawners in combat rooms
+
+Drops:
+- Breeze Rod (1-2)
+
+Special Abilities:
+- Fires Wind Charges — projectiles that create a burst of wind on impact
+- Wind bursts push players and mobs (knockback)
+- Wind bursts activate levers, buttons, trapdoors, and bells within range
+  (Can trigger traps in the Trial Chamber against the player)
+- Immune to almost all projectiles — arrows, tridents, snowballs all deflected
+- Jumps to high ledges to maintain range advantage
+- Very mobile — constantly repositioning
+
+Weaknesses:
+- Melee attacks (can't deflect player sword)
+- Area-of-effect splash potions
+
+Immunities:
+- All projectiles (arrows, snowballs, tridents deflected back)
+- Fall damage
+
+Behavior:
+- Leaps around the arena constantly
+- Fires Wind Charges from range
+- Activates environmental hazards intentionally
+- Uses verticality to stay out of melee range
+
+Sounds: Whooshing wind sounds, energetic movement
+
+Notes:
+- Added in 1.21 (Tricky Trials update)
+- Breeze Rods are used to craft Wind Charges (throwable item) and Mace (new weapon)
+- The environmental activation mechanic makes it uniquely dangerous in Trial Chambers
+- Represents a new "arena fighter" mob that uses the environment as a weapon
+- The Mace crafted from Breeze Rods deals bonus damage based on fall height

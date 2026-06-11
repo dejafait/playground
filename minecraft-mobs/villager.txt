@@ -1,0 +1,67 @@
+Name: Villager
+Type: Passive
+Category: Humanoid / NPC
+
+Health: 20 HP (10 hearts)
+Attack Damage: None (does not attack)
+Armor: 0
+Movement Speed: 0.50
+XP Dropped: 0 (small XP from trades)
+
+Spawn Locations:
+- Villages (all biome variants)
+- Igloo basements (1 Zombie Villager, 1 regular Villager)
+- Bred by player action (2 villagers + beds + food)
+
+Drops:
+- Nothing
+
+Professions (determined by job site block):
+- Armorer (Blast Furnace) — sells armor
+- Butcher (Smoker) — sells meat/food
+- Cartographer (Cartography Table) — sells maps
+- Cleric (Brewing Stand) — sells potions/ender pearls
+- Farmer (Composter) — buys/sells crops and food
+- Fisherman (Barrel) — sells fish/fishing rods
+- Fletcher (Fletching Table) — sells bows/arrows/crossbows
+- Leatherworker (Cauldron) — sells leather armor
+- Librarian (Lectern) — sells enchanted books
+- Mason / Stone Mason (Stonecutter) — sells stone materials
+- Shepherd (Loom) — sells wool/dye/tapestries
+- Toolsmith (Smithing Table) — sells tools
+- Weaponsmith (Grindstone) — sells swords/axes
+- Nitwit (no job site) — cannot trade, useless for trading
+- Unemployed — can gain a profession if near a job site block
+
+Special Mechanics:
+- Trading levels up (Novice → Apprentice → Journeyman → Expert → Master)
+- Leveling unlocks better trades
+- Curing a Zombie Villager gives massive permanent discounts on that villager's trades
+- Villagers gossip — treatment (killing, curing, trading) affects reputation with other villagers
+- Iron Golems spawn to protect villages (1 per 10 villagers)
+- Sleep in beds at night — villages without beds become unprotected
+- Breed when they have enough beds and food (any thrown crops)
+- Flee from hostile mobs and ring bells to alert others
+- Get scared by zombies, pillagers, ravagers, etc.
+
+Weaknesses:
+- No combat ability — relies entirely on Iron Golems and players for protection
+- Zombies can turn them into Zombie Villagers
+- Lightning within 4 blocks converts them into Witches
+
+Behavior:
+- Wanders village during day
+- Trades with players (right-click)
+- Sleeps at night (path to nearest unclaimed bed)
+- Socializes with other villagers (faces and "hmm" sounds)
+- Farmers plant/harvest crops
+- Children exist (baby villagers who play)
+
+Sounds: "Hmm" and "Huh" and trading sounds, bell ringing
+
+Notes:
+- Librarian villagers with Mending enchantment books are among the most sought trades
+- Cured Zombie Villagers offer 1-emerald trades for valuable items
+- A trading hall with multiple cured villagers is one of the most powerful player setups
+- Villagers form the backbone of Minecraft's economy system
+- Village biome determines villager appearance (Plains, Desert, Savanna, Snowy, Jungle, Swamp, Taiga styles)

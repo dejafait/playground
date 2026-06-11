@@ -1,0 +1,53 @@
+Name: Skeleton
+Type: Hostile
+Category: Undead
+
+Health: 20 HP (10 hearts)
+Attack Damage: Arrow damage varies by difficulty and distance (1-5 per arrow)
+Armor: 2
+Movement Speed: 0.25
+XP Dropped: 5
+
+Spawn Locations:
+- Overworld (night, light level 0)
+- Caves and dungeons
+- Skeleton spawners in dungeons
+- Nether Fortresses (rarely, replaced by Wither Skeletons)
+
+Drops:
+- Bones (0-2)
+- Arrows (0-2)
+- Bow (8.5% chance, may be enchanted)
+- Any equipped items (rare)
+
+Special Abilities:
+- Shoots arrows at players from a distance
+- Strafe sideways while shooting to avoid hits
+- Burns in direct sunlight (unless wearing helmet)
+- Accuracy increases on Hard difficulty
+- Can pick up and use items on the ground
+- Will seek shade or water to avoid sunlight
+- Knocks back player with arrows
+
+Weaknesses:
+- Sunlight (catches fire)
+- Fire and lava
+- Melee combat at close range (tries to back away)
+
+Immunities:
+- Poison
+- Drowning (technically but can still die in water indirectly)
+
+Behavior:
+- Keeps distance from player and shoots arrows
+- Circles player to strafe
+- Flees into shade at sunrise
+- Will switch to melee if player gets very close
+
+Sounds: Rattling bones, bow twang
+
+Notes:
+- One of the original Minecraft mobs
+- Skeletons killed by creeper explosions drop music discs
+- Can spawn riding spiders (Spider Jockey)
+- Wears Jack o'Lantern during Halloween event

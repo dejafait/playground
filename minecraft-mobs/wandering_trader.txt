@@ -1,0 +1,57 @@
+Name: Wandering Trader
+Type: Passive
+Category: Humanoid / NPC
+
+Health: 20 HP (10 hearts)
+Attack Damage: None
+Armor: 0
+Movement Speed: 0.50
+XP Dropped: 0
+Despawn Timer: Disappears after 40-60 minutes (2-3 in-game days)
+
+Spawn Locations:
+- Random locations near the player in the Overworld
+- Spawns every 1 in-game day (24 min), tries up to 10 times to find valid location
+- Likely to appear within 48 blocks of player's spawn or bed
+
+Drops:
+- Leads (2, from its 2 llamas when killed)
+- Blue dye (1, from drinking invisibility potion — it drops the bottle)
+
+Always Accompanied By:
+- 2 Trader Llamas (leashed to it)
+
+Trade Inventory (random selection, 6 trades total):
+- Rare plants, flowers, saplings (unique biome plants)
+- Coral blocks
+- Blue ice
+- Packed ice
+- Sea grass
+- Podzol
+- Various dyes
+- Sand, Red Sand, Gravel
+- Nautilus Shell
+
+Special Abilities:
+- Drinks Invisibility Potion at night (becomes invisible — llamas still visible)
+- Trades items that may not be available in the local biome
+- Unique source of certain biome-specific items
+
+Weaknesses:
+- No combat ability
+- Attacked by Illagers (Pillagers target them specifically)
+
+Behavior:
+- Wanders the overworld
+- Offers random 6 trades per visit
+- Becomes invisible at night
+- Disappears after timer expires
+
+Sounds: "Hmm" sounds (like villager)
+
+Notes:
+- Trades are locked (no leveling system unlike regular Villagers)
+- Most useful for biome-locked items players can't easily reach
+- The only natural source of certain decorative plants
+- Wandering Traders are not worth killing — Leads are better obtained via sheep/fences
+- Occasionally wanders into dangerous situations and dies (attacked by Pillagers)

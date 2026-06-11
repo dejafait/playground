@@ -1,0 +1,42 @@
+Name: Squid
+Type: Passive
+Category: Animal / Aquatic
+
+Health: 10 HP (5 hearts)
+Attack Damage: None
+Armor: 0
+Movement Speed: Swims at ~0.20
+XP Dropped: 1-3
+
+Spawn Locations:
+- Oceans (all non-frozen variants)
+- Rivers
+- Underwater in any depth
+
+Drops:
+- Ink Sac (1-3)
+
+Special Abilities:
+- Squirts ink when attacked (visual effect only — no damage or slowness)
+- Swims in all directions (unique fluid 3D movement)
+- Suffocates on land (takes damage outside water)
+
+Ink Sac Uses:
+- Black Dye (crafting)
+- Writing in Books (ink)
+- Printing text in game signs
+- Crafting Dark-color items
+
+Behavior:
+- Swims aimlessly in 3D space through water
+- Moves away from attacks
+- Squirts harmless ink cloud when hurt
+
+Sounds: Squirting sounds (when hit)
+
+Notes:
+- Simple but iconic mob — one of the oldest aquatic mobs
+- Ink Sacs are used in Book and Quill (written books) and Black Dye
+- Glow Squid variant (added in 1.17) has a special glowing version
+- Squids can be pushed by flowing water currents
+- Cannot survive out of water — suffocates on land

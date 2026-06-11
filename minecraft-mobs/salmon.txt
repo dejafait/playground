@@ -1,0 +1,54 @@
+Name: Salmon
+Type: Passive
+Category: Animal / Aquatic
+
+Health: 3 HP (1.5 hearts)
+Attack Damage: None
+Armor: 0
+Movement Speed: Swims fast
+XP Dropped: 1-3
+
+Size Variants:
+- Small (most common)
+- Normal
+- Large (rarest)
+
+Spawn Locations:
+- Cold Ocean
+- Deep Cold Ocean
+- Frozen Ocean
+- Deep Frozen Ocean
+- Rivers
+- Frozen River
+
+Drops:
+- Raw Salmon (1)
+- Bone Meal (rarely)
+- Cooked Salmon (if on fire)
+
+Special Abilities:
+- Swims upstream in rivers (like real salmon)
+- Can be caught in Water Bucket
+- 3 size variants with identical behavior but different models
+- Stronger than Cod in terms of food value when cooked
+
+Salmon Item:
+- Raw Salmon: 2 hunger bars, 0.4 saturation
+- Cooked Salmon: 6 hunger bars, 9.6 saturation — one of the best cooked fish items
+- Used to tame Cats (along with Cod)
+- Ocelot trust earned with Salmon
+- Fed to Dolphins (treasure hunting trigger)
+- Polar Bears may drop Salmon
+
+Behavior:
+- Schools in rivers and cold oceans
+- Jumps waterfalls and upstream current (like real salmon migration)
+
+Sounds: Bubbling, splashing
+
+Notes:
+- Cooked Salmon has higher saturation than Cooked Cod — better food item
+- The upstream swimming behavior accurately mimics real-world salmon migration
+- Cold biome indicator — if you see Salmon, you're near cold waters
+- 3 size variants are purely cosmetic with no mechanical difference
+- One of the best fish to farm for food due to high cooked saturation value

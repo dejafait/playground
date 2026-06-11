@@ -1,0 +1,50 @@
+Name: Enderman
+Type: Neutral (becomes hostile when looked at)
+Category: Monster
+
+Health: 40 HP (20 hearts)
+Attack Damage: 7 (Easy) / 10 (Normal) / 15 (Hard)
+Armor: 0
+Movement Speed: 0.30 (normal) / 0.65 (aggro)
+XP Dropped: 5
+
+Spawn Locations:
+- Overworld (night, all biomes, rare)
+- The Nether (all areas)
+- The End (common — large groups on main island)
+
+Drops:
+- Ender Pearl (0-1)
+
+Special Abilities:
+- Teleports when attacked or hit by projectiles
+- Teleports away from water and rain
+- Becomes hostile when player looks directly at its head/body
+- Can pick up and carry certain blocks (grass, dirt, sand, gravel, etc.)
+- Places held blocks elsewhere in the world
+- Teleports randomly when on fire
+- Extremely long reach for melee attacks
+
+Weaknesses:
+- Water and rain deal continuous damage
+- Looking at them without aggressing (wear pumpkin on head to look safely)
+- Being in water forces teleportation and chip damage
+
+Immunities:
+- Projectiles (teleports away from arrows, snowballs, etc.)
+- Does not burn in sunlight
+
+Behavior:
+- Neutral until player makes eye contact with its body
+- Shakes and screams when aggroed
+- Teleports around player in combat
+- Picks up random blocks while wandering
+- Teleports to dry land if it enters water
+
+Sounds: Long, eerie moaning sounds, distorted speech
+
+Notes:
+- Name and behavior are inspired by the Slender Man creepypasta
+- Makes unique spooky sounds that are reversed and pitch-shifted speech
+- Wearing a pumpkin helmet prevents aggro from eye contact
+- Essential to farm for Ender Pearls needed to reach The End

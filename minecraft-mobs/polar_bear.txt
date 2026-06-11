@@ -1,0 +1,46 @@
+Name: Polar Bear
+Type: Neutral (hostile when cub is present)
+Category: Animal
+
+Health: 30 HP (15 hearts)
+Attack Damage: 10 (Easy) / 18 (Normal) / 27 (Hard)
+Armor: 0
+Movement Speed: 0.25 (land) / faster in water
+XP Dropped: 1-3
+
+Spawn Locations:
+- Frozen Ocean
+- Deep Frozen Ocean
+- Snowy Tundra
+- Snowy Mountains
+- Ice Spikes
+- Always spawn in groups that may include cubs
+
+Drops:
+- Raw Cod (0-2)
+- Raw Salmon (0-2)
+
+Behavior:
+- Neutral when alone (adult without cub nearby)
+- Immediately attacks if player approaches a cub
+- Rears up on hind legs before attacking (visual warning)
+- Adult will attack mobs that attack its cub
+- Can swim effectively in frozen oceans
+
+Special Abilities:
+- One of the hardest-hitting neutral mobs when provoked
+- Rears up on hind legs (animation signals incoming aggro)
+- Cubs cannot be tamed or bred by the player
+
+Weaknesses:
+- Standard weapons — just avoid provoking near cubs
+
+Immunities:
+- Cold / freezing effects
+
+Notes:
+- Can fish (break ice blocks to fish) — one of the few mobs with tool use-like behavior
+- Very dangerous if accidentally walked near a cub
+- Good source of fish drops in ice biomes
+- Baby polar bears (cubs) are among the cutest mob variants
+- Adult polar bears have the highest neutral-mob damage — nearly boss-tier when angered

@@ -1,0 +1,47 @@
+Name: Pufferfish
+Type: Passive (defends when approached)
+Category: Animal / Aquatic
+
+Health: 3 HP (1.5 hearts)
+Attack Damage: 7 (fully puffed, poison + damage to nearby entities)
+Armor: 0
+Movement Speed: Swims slowly
+XP Dropped: 1-3
+
+Spawn Locations:
+- Warm Ocean
+- Lukewarm Ocean
+
+Drops:
+- Pufferfish (1)
+- Bone Meal (rarely)
+
+Puffing Mechanic (3 states):
+- Deflated (no threat): Normal small fish appearance
+- Semi-puffed (nearby entity): Medium spiky appearance
+- Fully puffed (entity within 3 blocks): Large spiky ball — deals Poison II to touching entities
+  Also inflicts Nausea II for 7 seconds
+
+Special Abilities:
+- Puffs up when players or mobs approach within ~3 blocks
+- Fully puffed Pufferfish poisons and damages all touching entities
+- Only the fully puffed state deals damage
+- Pufferfish item (when eaten): Inflicts player with Hunger III, Poison IV, Nausea II for ~15 seconds
+
+Pufferfish Item Uses:
+- Potion of Water Breathing (Brewing ingredient — Pufferfish + Awkward Potion)
+- DO NOT eat raw — extremely toxic to player
+
+Behavior:
+- Swims slowly in warm ocean
+- Automatically puffs up when threatened
+- Puffs back down after threat moves away
+
+Sounds: Blowing up sounds, squirting water
+
+Notes:
+- One of the only mobs that deals poison on contact without needing to attack
+- The Water Breathing Potion is critical for ocean monument raiding and underwater builds
+- Fishing can produce Pufferfish regardless of biome (treasure loot from fishing)
+- Eating a Pufferfish intentionally is one of the worst food decisions in the game
+- Only 3 HP — dies to almost anything

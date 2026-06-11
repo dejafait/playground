@@ -1,0 +1,48 @@
+Name: Spider
+Type: Neutral (hostile in darkness, neutral in light)
+Category: Arthropod
+
+Health: 16 HP (8 hearts)
+Attack Damage: 2 (Easy) / 2 (Normal) / 3 (Hard)
+Armor: 0
+Movement Speed: 0.30
+XP Dropped: 5
+
+Spawn Locations:
+- Overworld (night, light level 0)
+- Dark caves
+- Spider spawners in dungeons
+
+Drops:
+- String (0-2)
+- Spider Eye (1/3 chance)
+
+Special Abilities:
+- Can climb any vertical surface (wall climbing)
+- Wider than 1 block (2 blocks wide) — can't fit through 1-block gaps
+- Jumps at players to attack
+- Neutral in daytime or sufficient light (does not attack unless provoked)
+- Can spawn with potion effects from spawners (speed, strength, etc.)
+- See through walls using special AI pathfinding
+
+Weaknesses:
+- Smite enchantment does NOT work (not undead)
+- Bane of Arthropods enchantment deals extra damage and slows
+- Light prevents natural spawning
+
+Immunities:
+- Fall damage resistance (web climbing behavior)
+
+Behavior:
+- Wanders at night, attacks players on sight
+- Passive during daylight unless attacked
+- Climbs walls and ceilings to pursue player
+- Leaps forward to attack
+
+Sounds: Hissing, skittering
+
+Notes:
+- Can carry a Skeleton on its back (Spider Jockey — 1% chance)
+- 2 blocks wide so it cannot enter standard 1-block doorways
+- One of the original Minecraft mobs
+- Useful for farming String (bows, fishing rods) and Spider Eyes (potions)

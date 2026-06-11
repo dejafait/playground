@@ -1,0 +1,40 @@
+Name: Tadpole
+Type: Passive
+Category: Animal / Amphibian (Baby)
+
+Health: 6 HP (3 hearts)
+Attack Damage: None
+Armor: 0
+Movement Speed: Swims (water-only mob)
+XP Dropped: 1-3
+
+Spawn Locations:
+- Hatched from Frogspawn (laid by Frogs)
+- Can be found in Swamp and Mangrove Swamp biomes (where frogs lay eggs)
+
+Drops:
+- Nothing
+
+Special Abilities:
+- Baby form of the Frog
+- Eventually grows into a Frog (after ~20 minutes)
+- Frog variant determined by biome temperature when the tadpole matures:
+  - Warm biome → White Frog
+  - Temperate biome → Orange Frog
+  - Cold biome → Green Frog
+- Can be carried in a Water Bucket (Bucket of Tadpole)
+- Dies outside of water — needs water to survive
+
+Behavior:
+- Swims aimlessly in water
+- Cannot survive on land
+- Grows into an adult Frog after time
+
+Sounds: Faint water movement sounds
+
+Notes:
+- Carrying tadpoles to different biomes controls which frog color variant they grow into
+- This is how players obtain all 3 Frog variants and thus all 3 Froglight types
+- Tadpoles in buckets are a renewable resource — place bucket → tadpole grows → frog breeds → more tadpoles
+- One of the smallest mobs in the game (alongside silverfish and endermite)
+- Added in 1.19 alongside Frogs

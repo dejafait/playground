@@ -1,0 +1,50 @@
+Name: Cat
+Type: Passive
+Category: Animal / Tameable
+
+Health: 10 HP (5 hearts)
+Attack Damage: 3 (attacks hostile small mobs)
+Armor: 0
+Movement Speed: 0.30
+XP Dropped: 1-3
+
+Spawn Locations:
+- Villages (1 per 4 beds, up to 10 per village)
+- Witch Huts in Swamps (1 black cat always present)
+
+Drops:
+- String (rarely)
+- Gift when owner wakes (see below)
+
+Variants (11 types):
+- Tabby, Tuxedo, Red, Siamese, British Shorthair, Calico, Persian, Ragdoll, White, Jellie, Black
+
+Taming:
+- Tame with Raw Cod or Raw Salmon (multiple needed — random chance)
+- Must approach slowly (crouching helps)
+- Collar color can be changed with dye
+
+Special Abilities:
+- Creepers actively avoid Cats (will not approach within 6 blocks)
+- Phantoms actively avoid Cats (will not swoop near them)
+- Brings owner a gift each morning when owner wakes from bed:
+  Possible gifts: Rabbit's Foot, Rabbit Hide, String, Rotten Flesh, Feather,
+                  Raw Chicken, Phantom Membrane, Mouse (raw)
+- Sits on beds and chests (can block chest access/sleep)
+- Purrs when near owner
+- Follows owner like a tamed wolf
+
+Behavior:
+- Skittish around players — approach slowly
+- Teleports to owner if too far away (like wolves)
+- Sits down on beds and chests autonomously
+- Hisses at Creepers and Phantoms (actually scares them away)
+
+Sounds: Meowing, purring, hissing
+
+Notes:
+- Passive defense against Creepers — a cat near your base prevents sneaky Creeper deaths
+- Phantom counter — sleep with a cat nearby to prevent Phantom spawning
+- 11 total variants — one (Jellie) named after a real cat owned by a Minecraft developer
+- Unlike Wolves, Cats generally don't fight mobs (they just scare specific ones)
+- One of the most useful passive utility pets in the game

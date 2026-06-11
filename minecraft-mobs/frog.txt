@@ -1,0 +1,51 @@
+Name: Frog
+Type: Passive
+Category: Animal / Amphibian
+
+Health: 10 HP (5 hearts)
+Attack Damage: None (eats small mobs with tongue — see Special Abilities)
+Armor: 0
+Movement Speed: 0.50 on land / swimmer
+XP Dropped: 1-3
+
+Spawn Locations:
+- Swamp
+- Mangrove Swamp
+
+Variants (3 types based on temperature where tadpole grows):
+- Temperate / Orange Frog — Swamp, Mangrove Swamp
+- Cold / Green Frog — Tundra, Taiga, Frozen biomes
+- Warm / White Frog — Desert, Jungle, Savanna
+
+Drops:
+- Nothing directly
+
+Special Abilities:
+- Eats Small Slimes: Kills small slimes and drops Slimeball
+- Eats Small Magma Cubes: Kills small magma cubes and drops a Froglight (color depends on frog variant):
+  - Ochre Froglight (orange frog)
+  - Verdant Froglight (green frog)
+  - Pearlescent Froglight (white frog)
+- Jumps very high relative to size
+- Semi-aquatic — swims and walks on land
+- Lays eggs (Frogspawn) in water when bred
+
+Breeding:
+- Feed 2 Frogs Slimeballs
+- Pregnant frog lays Frogspawn (group of eggs) on water surface
+- Frogspawn hatches into Tadpoles after a few minutes
+
+Behavior:
+- Jumps periodically
+- Sits in water
+- Eats small slimes/magma cubes with tongue
+- Tadpoles grow into temperature-appropriate frog variant
+
+Sounds: Croaking
+
+Notes:
+- The only way to obtain Froglight blocks (light sources) is via frogs eating magma cubes
+- Building a frog farm in the Nether (small magma cubes + frogs = froglight farm)
+- 3 unique Froglight colors require 3 frog variants — biome-specific collection
+- Added in 1.19 (The Wild Update)
+- One of the most charming newer mobs in the game

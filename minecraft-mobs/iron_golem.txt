@@ -1,0 +1,53 @@
+Name: Iron Golem
+Type: Neutral (hostile to threats of villagers/player)
+Category: Utility / Construct
+
+Health: 100 HP (50 hearts)
+Attack Damage: 11 (Easy) / 7-21 range (Normal) / 21 (Hard) + extreme knockback
+Armor: 0 (natural resistance)
+Movement Speed: 0.25
+XP Dropped: 0
+
+Spawn Locations:
+- Villages (natural spawn when village has 10+ villagers and 21+ houses/beds)
+- Player-built: 4 Iron Blocks in T-shape + Carved Pumpkin/Jack o'Lantern on top
+- Iron Golem farms (artificial spawning conditions)
+
+Drops:
+- Iron Ingot (3-5)
+- Poppy (0-2)
+
+Special Abilities:
+- Attacks all hostile mobs that threaten players or villagers
+- Extreme knockback — launches mobs and players high into the air
+- Immune to drowning, fall damage
+- Can hold and offer Poppies to baby villagers (passive idle behavior)
+- Health is visually shown through cracks on the body (4 crack stages)
+- Can be healed with Iron Ingots (25 HP per ingot — right-click)
+- Player-built golems are neutral to players
+- Village-spawned golems may attack players with very low village reputation
+
+Weaknesses:
+- Slow movement speed
+- Fire (not immune — deals damage)
+- Can be griefed if village reputation is very negative (attacks player)
+
+Immunities:
+- Fall damage
+- Drowning
+
+Behavior:
+- Patrols village area
+- Attacks hostile mobs on sight
+- Offers Poppies to baby villagers
+- Attacks players with very low reputation (from harming villagers)
+- Neutral to player if built by player (not village-spawned)
+
+Sounds: Heavy metallic clanging footsteps, angry groan when attacked
+
+Notes:
+- One of the most powerful non-boss mobs in the game
+- Iron Golem farms are one of the best passive iron sources
+- Originally inspired by a Studio Ghibli robot (Castle in the Sky)
+- Village reputation system means murdering villagers will turn their Golems against you
+- Introduced as a "community mob" in Beta 1.9 — players petitioned for a defensive mob

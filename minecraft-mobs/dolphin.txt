@@ -1,0 +1,45 @@
+Name: Dolphin
+Type: Neutral (attacks if provoked or fed and not followed)
+Category: Animal / Aquatic
+
+Health: 10 HP (5 hearts)
+Attack Damage: 3 (Normal)
+Armor: 0
+Movement Speed: Fast swimmer (~0.45-0.65)
+XP Dropped: 1-3
+
+Spawn Locations:
+- Warm Ocean
+- Lukewarm Ocean
+- Cool Ocean
+- Normal Ocean
+(NOT in Frozen Oceans or Deep Frozen Oceans)
+
+Drops:
+- Raw Cod (0-1)
+
+Special Abilities:
+- Dolphin's Grace: Swimming near a Dolphin gives the player Dolphin's Grace status effect
+  (30% faster swimming speed — allows faster ocean navigation)
+- Treasure Hunting: Feeding a Dolphin Raw Cod or Raw Salmon makes it swim toward the nearest
+  buried treasure, shipwreck, or underwater ruin (Lead mechanic)
+- Jumps out of water elegantly (aesthetic behavior)
+- Needs air — breathes above water surface like real dolphins
+- Suffocates if kept out of water too long
+- Will become hostile if not fed after being fed (timer expires)
+
+Behavior:
+- Playful — jumps out of water
+- Follows boats occasionally
+- Swims near surface for air
+- Hostile if provoked or if the player doesn't follow through after feeding
+- Plays with items dropped in water
+
+Sounds: Clicking, chattering, whistling (dolphin-like echolocation sounds)
+
+Notes:
+- The treasure-hunting mechanic makes Dolphins incredibly useful for finding ocean loot
+- Dolphin's Grace stacks with Speed potions for extreme swim speed
+- Cannot be tamed — you can interact but not keep one as a permanent companion
+- Will die if kept out of the ocean (needs both water and air access)
+- One of the most beloved ocean mobs for both aesthetics and utility

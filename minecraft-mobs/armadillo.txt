@@ -1,0 +1,56 @@
+Name: Armadillo
+Type: Passive
+Category: Animal
+
+Health: 12 HP (6 hearts)
+Attack Damage: None
+Armor: 0
+Movement Speed: 0.14
+XP Dropped: 1-3
+
+Spawn Locations:
+- Savanna
+- Savanna Plateau
+- Windswept Savanna
+- Badlands biomes (sparse)
+
+Drops:
+- Armadillo Scute (1, occasionally while alive and when rolled and hit)
+
+Scute Drops:
+- Periodically drops Armadillo Scutes while wandering (every few minutes, passive)
+- Additional Scutes dropped when curled up and hit (but this harms the mob — not recommended)
+
+Special Abilities:
+- Rolls into a Ball: When threatened by:
+  - Player sprinting nearby
+  - Undead mobs (Zombies, Skeletons, etc.)
+  - Player attacks
+  → Curls into armored ball — reduces incoming damage significantly
+- Unrolls when threat leaves the area
+- Scute Drops: Passively drops Armadillo Scutes over time (similar to Chicken laying Eggs)
+
+Wolf Armor:
+- Armadillo Scutes (6) + Crafting Table = Wolf Armor
+- Wolf Armor can be equipped on tamed Wolves
+- Provides significant damage reduction for pet wolves
+- Repairs with additional Armadillo Scutes
+
+Breeding:
+- Feed 2 Armadillos Spider Eyes
+
+Behavior:
+- Slow and peaceful
+- Curls up when frightened
+- Drops Scutes passively
+- Uncurls when safe
+
+Sounds: Clicking, shuffling sounds
+
+Notes:
+- Won the Minecraft Live 2023 Mob Vote
+- Added in 1.21 (Tricky Trials update)
+- The Wolf Armor mechanic is the primary reason Armadillos were added
+- One of the few mobs that passively generates a resource (like Chickens laying Eggs)
+- Real armadillos do roll into balls for protection — accurately represented
+- Scutes only come from natural drops — cannot be sheared or harvested aggressively

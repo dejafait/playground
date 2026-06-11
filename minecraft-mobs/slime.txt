@@ -1,0 +1,46 @@
+Name: Slime
+Type: Hostile
+Category: Monster
+
+Health: Large 16 HP / Medium 4 HP / Small 1 HP
+Attack Damage: Large 4 / Medium 2 / Small 0 (contact only)
+Armor: 0
+Movement Speed: Large 0.15 / Medium 0.30 / Small 0.45 (smaller = faster)
+XP Dropped: Large 4 / Medium 2 / Small 1
+
+Spawn Locations:
+- Swamp biomes (surface, night, Y=50-70)
+- Slime chunks (underground, below Y=40, any light level)
+- Superflat worlds (common)
+
+Drops:
+- Slimeball (0-2, only from Small Slimes)
+
+Special Abilities:
+- Splits into 2-4 smaller Slimes when killed (Large → Medium, Medium → Small)
+- Only Small Slimes drop Slimeballs
+- Jumps toward player to attack
+- Can see through walls (tracks player through terrain)
+- Small Slimes deal no damage but are annoying and push player
+
+Weaknesses:
+- Fire
+- Standard combat
+
+Immunities:
+- Fall damage
+
+Behavior:
+- Hops toward player
+- Splits into smaller versions when killed
+- Spawns in specific underground chunks (Slime Chunks)
+- Surface spawning only in Swamps and only at certain moon phases
+
+Sounds: Squelching, squishing
+
+Notes:
+- Slimeballs are used for leads, sticky pistons, slime blocks, and magma cream
+- Slime chunks are fixed and can be found with seeds
+- Moon phase affects slime spawning rates in swamps (full moon = most spawns)
+- Essential farm mob for Redstone contraptions (slime blocks, sticky pistons)
+- Tiny slimes can be kept as "pets" as they do no damage

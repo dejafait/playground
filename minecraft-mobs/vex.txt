@@ -1,0 +1,46 @@
+Name: Vex
+Type: Hostile
+Category: Illager / Spirit
+
+Health: 14 HP (7 hearts)
+Attack Damage: 9 (Easy) / 13 (Normal) / 17 (Hard)
+Armor: 0
+Movement Speed: Flies at 0.60
+XP Dropped: 3
+
+Spawn Locations:
+- Summoned exclusively by Evokers (3 at a time)
+- Does not spawn naturally
+
+Drops:
+- Iron Sword (rare)
+
+Special Abilities:
+- Can fly through any solid block — walls, floors, ceilings offer no protection
+- High damage for its size
+- Glows red when charging toward a player
+- Has a short lifespan — after 30-119 seconds (random) it begins taking 1 HP/second of damage
+  until it dies (unless re-summoned by another Evoker)
+- Cannot be leashed or bred
+
+Weaknesses:
+- Low HP — easy to kill if you can hit it
+- Short natural lifespan (eventually kills itself)
+
+Immunities:
+- Terrain/blocks (phases through them)
+
+Behavior:
+- Charges at players aggressively
+- Passes through walls and floors to reach the target
+- Glows red while in attack mode
+- Fades over time unless supported by more Evoker summons
+
+Sounds: Ghostly whimpering, high-pitched shrieking
+
+Notes:
+- One of the most terrifying mobs due to phasing through walls
+- Makes hiding in rooms impossible when Evokers are present
+- Small glowing figure — inspired by ghost/imp designs
+- The lifespan mechanic means Vexes are temporary — don't last forever even if not killed
+- Main danger is during Woodland Mansion raids where Evokers summon them repeatedly

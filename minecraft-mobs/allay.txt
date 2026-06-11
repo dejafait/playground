@@ -1,0 +1,45 @@
+Name: Allay
+Type: Passive
+Category: Utility / Mob
+
+Health: 20 HP (10 hearts)
+Attack Damage: None
+Armor: 0
+Movement Speed: Flies at 0.50-0.60
+XP Dropped: 0
+
+Spawn Locations:
+- Pillager Outpost cages (2-3 in wooden cages around the outpost)
+- Woodland Mansion jail cells (within specific rooms)
+
+Drops:
+- Nothing
+
+Special Abilities:
+- Item Collector: Give an Allay any item → it will search the surrounding area for matching items
+  and bring them back to you (or to a Note Block it bonded with)
+- Note Block Bonding: Play a Note Block near an Allay — it bonds to it and will deliver collected
+  items to that Note Block location when it plays
+- Duplication: When a Note Block plays and the Allay is holding items and dancing,
+  feeding it an Amethyst Shard duplicates it (creates a second Allay — 5 minute cooldown)
+- Dances when music plays from a Jukebox or Note Block
+
+Item Delivery Range:
+- Searches a large radius for matching items
+- Returns to player or bonded Note Block with collected items
+
+Behavior:
+- Follows the player who gave it an item
+- Flies around collecting items of the matching type
+- Dances when music is playing nearby
+- Cannot attack — completely passive
+
+Sounds: Gentle humming, happy musical tones
+
+Notes:
+- Won the Minecraft Live 2021 Mob Vote
+- Added in 1.19 (The Wild Update)
+- The Note Block bonding mechanic makes Allays perfect for automated item sorting systems
+- Duplicating Allays is the only way to get more beyond what spawn in structures
+- One of the most useful utility mobs for automation-focused players
+- The dancing behavior is purely cosmetic but endearing

@@ -1,0 +1,43 @@
+Name: Zombie Horse
+Type: Passive (but classified as undead)
+Category: Undead / Animal
+
+Health: 15 HP (7.5 hearts)
+Attack Damage: None
+Armor: 0
+Movement Speed: 0.20
+XP Dropped: 1-3
+
+Spawn Locations:
+- Does NOT spawn naturally in Survival mode
+- Only available via: Spawn Egg, /summon command, or (Bedrock) Skeleton Horse traps (very rarely)
+- Java Edition: Must use commands or creative mode
+
+Drops:
+- Rotten Flesh (0-2)
+
+Taming:
+- Can be tamed via commands: /ride command or right-click with Saddle in creative
+- Can be ridden with Saddle once tamed
+
+Special Abilities:
+- Same speed/jump as a standard horse (fixed stats)
+- Immune to most undead effects (Smite enchantment DOES deal bonus damage)
+- Does not sink in water — can walk on/through water surfaces slowly
+
+Immunities:
+- Drowning
+- Does not burn in sunlight
+
+Behavior:
+- Wanders without purpose
+- Ridden same as Horse after taming
+
+Sounds: Hollow horse sounds
+
+Notes:
+- One of the most obscure mobs in the game — most players never see one in Survival
+- A true survival-obtained Zombie Horse is nearly impossible without cheats
+- Sometimes confused with Skeleton Horse (which DOES spawn naturally)
+- The Zombie Horse is essentially a creative/command block mob
+- Its undead nature means Smite enchantment deals bonus damage to it

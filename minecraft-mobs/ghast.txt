@@ -1,0 +1,51 @@
+Name: Ghast
+Type: Hostile
+Category: Nether Monster
+
+Health: 10 HP (5 hearts)
+Attack Damage: Fireball explosion — up to 17 (direct hit), varies with distance
+Explosion Power: 1 (fireball) — but creates fire
+Armor: 0
+Size: 4x4x4 blocks (very large)
+Movement Speed: 0.40 (flies)
+XP Dropped: 5
+
+Spawn Locations:
+- Nether (all biomes except Basalt Deltas — more rare there)
+- Requires 5x4x5 space to spawn
+
+Drops:
+- Ghast Tear (0-1)
+- Gunpowder (0-2)
+
+Special Abilities:
+- Large flying mob that fires explosive fireballs
+- Fireballs can be deflected back by hitting them (sword, fist, bow, snowball)
+- Reflected fireball kills Ghast in one hit
+- Has a long range — can attack from very far away
+- Opens eyes and makes a pre-attack sound before firing
+- Cries when idle — one of the only mobs with "emotional" sounds
+
+Weaknesses:
+- Deflected fireballs (instant kill)
+- Arrows — difficult to hit but effective
+- Very low health despite its size
+
+Immunities:
+- Fire
+- Lava
+
+Behavior:
+- Drifts slowly through the Nether
+- Opens and closes its eyes (idle vs. targeting)
+- Fires fireballs at players in range
+- Makes crying sounds when not attacking
+
+Sounds: Crying (idle), screaming (death), explosion
+
+Notes:
+- Ghast Tears are required for Potions of Regeneration and End Crystals
+- One of the most iconic Nether mobs
+- Despite being terrifying, it has very low HP — it just has huge range and firepower
+- Deflecting a fireball back to kill a Ghast grants the "Return to Sender" achievement
+- The crying sounds were recorded by C418's sleeping cat
