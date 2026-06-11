@@ -1,0 +1,8 @@
+HTML Color Code: #008000
+
+Translations:
+French:    Vert
+Spanish:   Verde
+Chinese:   绿色 (lǜsè)
+Hindi:     हरा (Hara)
+Bulgarian: Зелено (Zeleno)

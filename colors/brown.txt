@@ -1,0 +1,8 @@
+HTML Color Code: #A52A2A
+
+Translations:
+French:    Marron
+Spanish:   Marrón
+Chinese:   棕色 (zōngsè)
+Hindi:     भूरा (Bhoora)
+Bulgarian: Кафяво (Kafyavo)

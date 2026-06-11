@@ -1,0 +1,8 @@
+HTML Color Code: #0000FF
+
+Translations:
+French:    Bleu
+Spanish:   Azul
+Chinese:   蓝色 (lánsè)
+Hindi:     नीला (Neela)
+Bulgarian: Синьо (Sinyo)

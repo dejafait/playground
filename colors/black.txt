@@ -1,0 +1,8 @@
+HTML Color Code: #000000
+
+Translations:
+French:    Noir
+Spanish:   Negro
+Chinese:   黑色 (hēisè)
+Hindi:     काला (Kaala)
+Bulgarian: Черно (Cherno)

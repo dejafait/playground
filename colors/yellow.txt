@@ -1,0 +1,8 @@
+HTML Color Code: #FFFF00
+
+Translations:
+French:    Jaune
+Spanish:   Amarillo
+Chinese:   黄色 (huángsè)
+Hindi:     पीला (Peela)
+Bulgarian: Жълто (Zhalto)
